@@ -1,0 +1,1472 @@
+18:30:24,410 train.py INFO epoch 0, lr [0.00011999999999999988]
+18:31:04,945 train.py INFO epoch 0, lr [0.00011999999999999988]
+18:31:07,160 train.py INFO train 0 2.399192e+00 7.812500 40.625000
+18:31:12,683 train.py INFO train_top1_acc 28.50963, train_top5_acc 70.03539, train_loss 2.28151
+18:31:13,54 train.py INFO valid 0000 2.388744e+00 0.000000 62.500000
+18:31:16,796 train.py INFO valid_top1_acc 28.78490, valid_top5_acc 74.83287, valid_loss 2.21102
+18:31:16,796 train.py INFO Took 11.850991010665894 seconds
+18:31:16,893 train.py INFO epoch 1, lr [0.0001419985702319623]
+18:31:17,522 train.py INFO train 0 1.985181e+00 35.937500 83.593750
+18:31:23,418 train.py INFO train_top1_acc 37.00354, train_top5_acc 82.65828, train_loss 1.85300
+18:31:23,769 train.py INFO valid 0000 2.026869e+00 1.562500 87.500000
+18:31:27,575 train.py INFO valid_top1_acc 35.62721, valid_top5_acc 82.57963, valid_loss 1.83191
+18:31:27,575 train.py INFO Took 10.68251919746399 seconds
+18:31:27,694 train.py INFO epoch 2, lr [0.0002073221460775006]
+18:31:28,298 train.py INFO train 0 1.670577e+00 38.281250 89.062500
+18:31:34,235 train.py INFO train_top1_acc 44.78962, train_top5_acc 89.38262, train_loss 1.55132
+18:31:34,562 train.py INFO valid 0000 2.190045e+00 4.687500 90.625000
+18:31:38,332 train.py INFO valid_top1_acc 44.71097, valid_top5_acc 87.77035, valid_loss 1.61441
+18:31:38,333 train.py INFO Took 10.63829755783081 seconds
+18:31:38,442 train.py INFO epoch 3, lr [0.0003139748591046141]
+18:31:39,39 train.py INFO train 0 1.454802e+00 41.406250 89.062500
+18:31:45,45 train.py INFO train_top1_acc 50.68816, train_top5_acc 92.56783, train_loss 1.37637
+18:31:45,378 train.py INFO valid 0000 2.552979e+00 21.093750 68.750000
+18:31:49,257 train.py INFO valid_top1_acc 45.22218, valid_top5_acc 89.53991, valid_loss 1.63124
+18:31:49,257 train.py INFO Took 10.814687252044678 seconds
+18:31:49,331 train.py INFO epoch 4, lr [0.0004586980882050301]
+18:31:49,925 train.py INFO train 0 1.162435e+00 60.937500 95.312500
+18:31:55,812 train.py INFO train_top1_acc 55.36768, train_top5_acc 93.15769, train_loss 1.27142
+18:31:56,188 train.py INFO valid 0000 1.043782e+00 67.187500 96.875000
+18:32:00,118 train.py INFO valid_top1_acc 51.04208, valid_top5_acc 93.31498, valid_loss 1.39577
+18:32:00,118 train.py INFO Took 10.786598205566406 seconds
+18:32:00,236 train.py INFO epoch 5, lr [0.0006370700221015788]
+18:32:00,868 train.py INFO train 0 1.136455e+00 60.156250 96.093750
+18:32:06,929 train.py INFO train_top1_acc 59.06410, train_top5_acc 95.39913, train_loss 1.15074
+18:32:07,268 train.py INFO valid 0000 2.541252e+00 21.093750 82.812500
+18:32:11,69 train.py INFO valid_top1_acc 43.96382, valid_top5_acc 86.86591, valid_loss 2.04383
+18:32:11,69 train.py INFO Took 10.833123922348022 seconds
+18:32:11,142 train.py INFO epoch 6, lr [0.0008436407614675471]
+18:32:11,741 train.py INFO train 0 1.059755e+00 64.843750 99.218750
+18:32:20,543 train.py INFO epoch 0, lr [0.00011999999999999988]
+18:32:28,388 train.py INFO train_top1_acc 24.18403, train_top5_acc 66.81085, train_loss 2.29608
+18:32:28,775 train.py INFO valid 0000 2.372763e+00 0.000000 57.031250
+18:32:32,894 train.py INFO valid_top1_acc 29.02084, valid_top5_acc 74.67558, valid_loss 2.28715
+18:32:32,894 train.py INFO Took 12.350959300994873 seconds
+18:32:33,35 train.py INFO epoch 1, lr [0.0001419985702319623]
+18:32:39,713 train.py INFO train_top1_acc 37.43610, train_top5_acc 81.67519, train_loss 1.88146
+18:32:40,71 train.py INFO valid 0000 2.104184e+00 0.000000 78.125000
+18:32:44,22 train.py INFO valid_top1_acc 35.94180, valid_top5_acc 82.65828, valid_loss 1.86168
+18:32:44,22 train.py INFO Took 10.987130880355835 seconds
+18:32:44,191 train.py INFO epoch 2, lr [0.0002073221460775006]
+18:32:49,41 train.py INFO epoch 0, lr [0.00011999999999999988]
+18:32:56,838 train.py INFO train_top1_acc 25.08848, train_top5_acc 66.61424, train_loss 2.29389
+18:33:01,139 train.py INFO valid_top1_acc 27.29060, valid_top5_acc 74.67558, valid_loss 2.26672
+18:33:01,140 train.py INFO Took 12.098165035247803 seconds
+18:33:01,273 train.py INFO epoch 1, lr [0.0001419985702319623]
+18:33:08,27 train.py INFO train_top1_acc 37.27880, train_top5_acc 81.12466, train_loss 1.87448
+18:33:12,325 train.py INFO valid_top1_acc 34.44750, valid_top5_acc 81.95045, valid_loss 1.88006
+18:33:12,325 train.py INFO Took 11.05205512046814 seconds
+18:33:12,472 train.py INFO epoch 2, lr [0.0002073221460775006]
+18:33:19,0 train.py INFO train_top1_acc 45.61541, train_top5_acc 89.38262, train_loss 1.58309
+18:33:23,199 train.py INFO valid_top1_acc 37.04286, valid_top5_acc 82.65828, valid_loss 1.86630
+18:33:23,199 train.py INFO Took 10.72719669342041 seconds
+18:33:23,347 train.py INFO epoch 3, lr [0.0003139748591046141]
+18:33:29,932 train.py INFO train_top1_acc 51.71058, train_top5_acc 91.78136, train_loss 1.37465
+18:33:34,124 train.py INFO valid_top1_acc 46.24459, valid_top5_acc 88.20291, valid_loss 1.55358
+18:33:34,124 train.py INFO Took 10.777289390563965 seconds
+18:33:34,267 train.py INFO epoch 4, lr [0.0004586980882050301]
+18:33:41,44 train.py INFO train_top1_acc 54.34526, train_top5_acc 94.06213, train_loss 1.26127
+18:33:45,198 train.py INFO valid_top1_acc 45.14353, valid_top5_acc 88.08494, valid_loss 1.61507
+18:33:45,198 train.py INFO Took 10.931185245513916 seconds
+18:33:45,282 train.py INFO epoch 5, lr [0.0006370700221015788]
+18:33:51,750 train.py INFO train_top1_acc 58.12033, train_top5_acc 95.20252, train_loss 1.18429
+18:33:56,58 train.py INFO valid_top1_acc 46.99174, valid_top5_acc 90.56233, valid_loss 1.53097
+18:33:56,59 train.py INFO Took 10.776447296142578 seconds
+18:33:56,222 train.py INFO epoch 6, lr [0.0008436407614675471]
+18:34:02,897 train.py INFO train_top1_acc 60.04719, train_top5_acc 95.35981, train_loss 1.15934
+18:34:07,47 train.py INFO valid_top1_acc 52.53637, valid_top5_acc 90.48368, valid_loss 1.41940
+18:34:07,47 train.py INFO Took 10.82546091079712 seconds
+18:34:07,159 train.py INFO epoch 7, lr [0.001072098832805975]
+18:34:13,708 train.py INFO train_top1_acc 61.30554, train_top5_acc 96.26425, train_loss 1.09619
+18:34:17,907 train.py INFO valid_top1_acc 49.19387, valid_top5_acc 92.29257, valid_loss 1.61456
+18:34:17,908 train.py INFO Took 10.748384714126587 seconds
+18:34:18,31 train.py INFO epoch 8, lr [0.001315464026495478]
+18:34:24,644 train.py INFO train_top1_acc 60.71569, train_top5_acc 95.47778, train_loss 1.11596
+18:34:28,890 train.py INFO valid_top1_acc 46.28392, valid_top5_acc 90.87692, valid_loss 1.73336
+18:34:28,891 train.py INFO Took 10.859847068786621 seconds
+18:34:28,962 train.py INFO epoch 9, lr [0.0015663006671118986]
+18:34:35,463 train.py INFO train_top1_acc 62.28864, train_top5_acc 95.87102, train_loss 1.09040
+18:34:39,756 train.py INFO valid_top1_acc 28.31302, valid_top5_acc 77.74282, valid_loss 2.72268
+18:34:39,757 train.py INFO Took 10.794213056564331 seconds
+18:34:39,848 train.py INFO epoch 10, lr [0.0018169447998561395]
+18:34:46,342 train.py INFO train_top1_acc 61.81675, train_top5_acc 96.26425, train_loss 1.10252
+18:34:50,430 train.py INFO valid_top1_acc 39.16634, valid_top5_acc 86.11876, valid_loss 2.64085
+18:34:50,430 train.py INFO Took 10.582178354263306 seconds
+18:34:50,502 train.py INFO epoch 11, lr [0.0020597383517318066]
+18:34:56,991 train.py INFO train_top1_acc 61.38419, train_top5_acc 95.98899, train_loss 1.11858
+18:35:01,135 train.py INFO valid_top1_acc 34.36886, valid_top5_acc 78.64727, valid_loss 3.20417
+18:35:01,135 train.py INFO Took 10.632842063903809 seconds
+18:35:01,223 train.py INFO epoch 12, lr [0.002287263113012784]
+18:35:07,876 train.py INFO train_top1_acc 63.31105, train_top5_acc 97.52261, train_loss 1.04773
+18:35:12,49 train.py INFO valid_top1_acc 23.67283, valid_top5_acc 64.37279, valid_loss 2.88523
+18:35:12,50 train.py INFO Took 10.826489925384521 seconds
+18:35:12,154 train.py INFO epoch 13, lr [0.0024925673900316396]
+18:35:18,689 train.py INFO train_top1_acc 63.15376, train_top5_acc 96.22493, train_loss 1.06232
+18:35:23,164 train.py INFO valid_top1_acc 25.95360, valid_top5_acc 70.74322, valid_loss 3.22938
+18:35:23,164 train.py INFO Took 11.009370803833008 seconds
+18:35:23,285 train.py INFO epoch 14, lr [0.0026693784042370948]
+18:35:29,965 train.py INFO train_top1_acc 62.52458, train_top5_acc 96.14628, train_loss 1.06884
+18:35:34,45 train.py INFO valid_top1_acc 26.26819, valid_top5_acc 73.33858, valid_loss 2.71458
+18:35:34,46 train.py INFO Took 10.76002812385559 seconds
+18:35:34,139 train.py INFO epoch 15, lr [0.0028122939479711165]
+18:45:21,771 train.py INFO epoch 0, lr [4.000000000000002e-06]
+18:45:28,598 train.py INFO train_top1_acc 11.22970, train_top5_acc 51.64733, train_loss 2.39521
+18:45:29,442 train.py INFO valid_top1_acc 10.30928, valid_top5_acc 44.32990, valid_loss 2.39724
+18:45:29,442 train.py INFO Took 7.671073913574219 seconds
+18:45:29,578 train.py INFO epoch 1, lr [4.734005272023187e-06]
+18:45:35,374 train.py INFO train_top1_acc 14.89559, train_top5_acc 56.19490, train_loss 2.39100
+18:45:36,152 train.py INFO valid_top1_acc 13.40206, valid_top5_acc 55.41237, valid_loss 2.39357
+18:45:36,153 train.py INFO Took 6.574118375778198 seconds
+18:45:36,301 train.py INFO epoch 2, lr [6.913572598952824e-06]
+18:45:42,226 train.py INFO train_top1_acc 20.32483, train_top5_acc 63.66589, train_loss 2.38283
+18:45:43,62 train.py INFO valid_top1_acc 21.13402, valid_top5_acc 64.69072, valid_loss 2.38646
+18:45:43,62 train.py INFO Took 6.761000633239746 seconds
+18:45:43,217 train.py INFO epoch 3, lr [1.047204306792659e-05]
+18:45:49,6 train.py INFO train_top1_acc 24.59397, train_top5_acc 69.18794, train_loss 2.36955
+18:45:49,808 train.py INFO valid_top1_acc 29.12371, valid_top5_acc 73.96907, valid_loss 2.37253
+18:45:49,809 train.py INFO Took 6.59096097946167 seconds
+18:45:50,23 train.py INFO epoch 4, lr [1.5300586008754264e-05]
+18:45:55,783 train.py INFO train_top1_acc 25.66125, train_top5_acc 70.95128, train_loss 2.34560
+18:45:56,553 train.py INFO valid_top1_acc 32.73196, valid_top5_acc 78.09278, valid_loss 2.34465
+18:45:56,554 train.py INFO Took 6.530530214309692 seconds
+18:45:56,714 train.py INFO epoch 5, lr [2.125152742248759e-05]
+18:46:02,614 train.py INFO train_top1_acc 27.42459, train_top5_acc 73.22506, train_loss 2.29981
+18:46:03,348 train.py INFO valid_top1_acc 34.02062, valid_top5_acc 75.25773, valid_loss 2.27847
+18:46:03,348 train.py INFO Took 6.6340651512146 seconds
+18:46:03,484 train.py INFO epoch 6, lr [2.814286637699402e-05]
+18:46:09,252 train.py INFO train_top1_acc 29.37355, train_top5_acc 76.00928, train_loss 2.19161
+18:46:09,995 train.py INFO valid_top1_acc 35.05155, valid_top5_acc 76.03093, valid_loss 2.10982
+18:46:09,996 train.py INFO Took 6.511308908462524 seconds
+18:46:10,140 train.py INFO epoch 7, lr [3.576384124211078e-05]
+18:46:15,999 train.py INFO train_top1_acc 32.71462, train_top5_acc 79.48956, train_loss 1.98777
+18:46:16,786 train.py INFO valid_top1_acc 35.30928, valid_top5_acc 80.67010, valid_loss 1.88224
+18:46:16,786 train.py INFO Took 6.646520137786865 seconds
+18:46:16,932 train.py INFO epoch 8, lr [4.3881375529131536e-05]
+18:46:22,718 train.py INFO train_top1_acc 39.90719, train_top5_acc 84.54756, train_loss 1.79521
+18:46:23,530 train.py INFO valid_top1_acc 38.14433, valid_top5_acc 82.73196, valid_loss 1.79535
+18:46:23,530 train.py INFO Took 6.597569227218628 seconds
+18:46:23,676 train.py INFO epoch 9, lr [5.224720619795204e-05]
+18:46:29,478 train.py INFO train_top1_acc 42.69142, train_top5_acc 86.68213, train_loss 1.66019
+18:46:30,242 train.py INFO valid_top1_acc 41.75258, valid_top5_acc 83.76289, valid_loss 1.75878
+18:46:30,242 train.py INFO Took 6.566198110580444 seconds
+18:46:30,414 train.py INFO epoch 10, lr [6.0605476422915306e-05]
+18:46:36,194 train.py INFO train_top1_acc 46.45012, train_top5_acc 89.97680, train_loss 1.52149
+18:46:36,956 train.py INFO valid_top1_acc 45.10309, valid_top5_acc 82.73196, valid_loss 1.71886
+18:46:36,957 train.py INFO Took 6.5429205894470215 seconds
+18:46:37,107 train.py INFO epoch 11, lr [6.87005606035998e-05]
+18:46:42,914 train.py INFO train_top1_acc 48.39907, train_top5_acc 91.32251, train_loss 1.43623
+18:46:43,692 train.py INFO valid_top1_acc 47.16495, valid_top5_acc 84.79381, valid_loss 1.65201
+18:46:43,692 train.py INFO Took 6.5845770835876465 seconds
+18:46:43,846 train.py INFO epoch 12, lr [7.628488230391824e-05]
+18:46:49,510 train.py INFO train_top1_acc 51.41531, train_top5_acc 92.99304, train_loss 1.35107
+18:46:50,317 train.py INFO valid_top1_acc 48.96907, valid_top5_acc 84.53608, valid_loss 1.61487
+18:46:50,317 train.py INFO Took 6.471178293228149 seconds
+18:46:50,485 train.py INFO epoch 13, lr [8.312648601917256e-05]
+18:46:56,335 train.py INFO train_top1_acc 55.17401, train_top5_acc 93.31787, train_loss 1.26147
+18:46:57,87 train.py INFO valid_top1_acc 48.19588, valid_top5_acc 86.08247, valid_loss 1.57729
+18:46:57,87 train.py INFO Took 6.602059841156006 seconds
+18:46:57,244 train.py INFO epoch 14, lr [8.90161311995257e-05]
+18:47:03,77 train.py INFO train_top1_acc 56.19490, train_top5_acc 94.24594, train_loss 1.22201
+18:47:03,865 train.py INFO valid_top1_acc 47.16495, valid_top5_acc 87.11340, valid_loss 1.62063
+18:47:03,866 train.py INFO Took 6.621349811553955 seconds
+18:47:04,8 train.py INFO epoch 15, lr [9.377369156944746e-05]
+18:47:09,873 train.py INFO train_top1_acc 60.51044, train_top5_acc 95.03480, train_loss 1.11547
+18:47:10,647 train.py INFO valid_top1_acc 47.93814, valid_top5_acc 87.88660, valid_loss 1.64997
+18:47:10,648 train.py INFO Took 6.639081954956055 seconds
+18:47:10,721 train.py INFO epoch 16, lr [9.725366402920899e-05]
+18:47:16,501 train.py INFO train_top1_acc 61.34571, train_top5_acc 95.08121, train_loss 1.06933
+18:47:17,240 train.py INFO valid_top1_acc 46.39175, valid_top5_acc 89.69072, valid_loss 1.61486
+18:47:17,241 train.py INFO Took 6.519312143325806 seconds
+18:47:17,332 train.py INFO epoch 17, lr [9.934961865664531e-05]
+18:47:23,126 train.py INFO train_top1_acc 64.17633, train_top5_acc 95.91647, train_loss 1.00990
+18:47:23,872 train.py INFO valid_top1_acc 47.93814, valid_top5_acc 88.91753, valid_loss 1.80713
+18:47:23,872 train.py INFO Took 6.539499282836914 seconds
+18:47:23,945 train.py INFO epoch 18, lr [9.999951600498043e-05]
+18:47:29,774 train.py INFO train_top1_acc 65.84687, train_top5_acc 96.75174, train_loss 0.94843
+18:47:30,554 train.py INFO valid_top1_acc 48.45361, valid_top5_acc 87.88660, valid_loss 1.69219
+18:47:30,554 train.py INFO Took 6.608921527862549 seconds
+18:47:30,626 train.py INFO epoch 19, lr [9.984326731329456e-05]
+18:47:36,422 train.py INFO train_top1_acc 65.66125, train_top5_acc 96.98376, train_loss 0.91188
+18:47:37,170 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 86.85567, valid_loss 1.80344
+18:47:37,171 train.py INFO Took 6.544628858566284 seconds
+18:47:37,243 train.py INFO epoch 20, lr [9.940827597096855e-05]
+18:47:43,152 train.py INFO train_top1_acc 69.18794, train_top5_acc 97.07657, train_loss 0.84484
+18:47:43,914 train.py INFO valid_top1_acc 48.45361, valid_top5_acc 86.85567, valid_loss 1.85540
+18:47:43,914 train.py INFO Took 6.671363592147827 seconds
+18:47:44,5 train.py INFO epoch 21, lr [9.869697462603758e-05]
+18:47:49,745 train.py INFO train_top1_acc 71.41531, train_top5_acc 97.30858, train_loss 0.80420
+18:47:50,529 train.py INFO valid_top1_acc 49.74227, valid_top5_acc 86.85567, valid_loss 1.88676
+18:47:50,529 train.py INFO Took 6.524022579193115 seconds
+18:47:50,601 train.py INFO epoch 22, lr [9.77133411641531e-05]
+18:47:56,535 train.py INFO train_top1_acc 70.85847, train_top5_acc 97.72622, train_loss 0.77581
+18:47:57,313 train.py INFO valid_top1_acc 49.22680, valid_top5_acc 87.11340, valid_loss 1.92272
+18:47:57,314 train.py INFO Took 6.712128400802612 seconds
+18:47:57,403 train.py INFO epoch 23, lr [9.646287646263268e-05]
+18:48:03,50 train.py INFO train_top1_acc 72.80742, train_top5_acc 97.40139, train_loss 0.76227
+18:48:03,793 train.py INFO valid_top1_acc 52.06186, valid_top5_acc 88.40206, valid_loss 1.86616
+18:48:03,793 train.py INFO Took 6.389514923095703 seconds
+18:48:03,867 train.py INFO epoch 24, lr [9.495257362732283e-05]
+18:48:09,669 train.py INFO train_top1_acc 74.19954, train_top5_acc 98.19026, train_loss 0.69814
+18:48:10,461 train.py INFO valid_top1_acc 48.45361, valid_top5_acc 90.72165, valid_loss 1.79737
+18:48:10,461 train.py INFO Took 6.594544410705566 seconds
+18:48:10,534 train.py INFO epoch 25, lr [9.319087888431422e-05]
+18:48:16,221 train.py INFO train_top1_acc 74.52436, train_top5_acc 98.19026, train_loss 0.69142
+18:48:17,20 train.py INFO valid_top1_acc 49.48454, valid_top5_acc 88.65979, valid_loss 1.86460
+18:48:17,20 train.py INFO Took 6.485443353652954 seconds
+18:48:17,94 train.py INFO epoch 26, lr [9.118764434521951e-05]
+18:48:22,872 train.py INFO train_top1_acc 76.00928, train_top5_acc 98.32947, train_loss 0.65614
+18:48:23,646 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 89.69072, valid_loss 1.77032
+18:48:23,646 train.py INFO Took 6.551845073699951 seconds
+18:48:23,719 train.py INFO epoch 27, lr [8.895407291016861e-05]
+18:48:29,398 train.py INFO train_top1_acc 76.93735, train_top5_acc 97.86543, train_loss 0.64749
+18:48:30,198 train.py INFO valid_top1_acc 48.96907, valid_top5_acc 88.14433, valid_loss 1.87649
+18:48:30,198 train.py INFO Took 6.478761196136475 seconds
+18:48:30,292 train.py INFO epoch 28, lr [8.6502655616647e-05]
+18:48:36,67 train.py INFO train_top1_acc 78.09745, train_top5_acc 98.51508, train_loss 0.59337
+18:48:36,882 train.py INFO valid_top1_acc 48.45361, valid_top5_acc 88.91753, valid_loss 1.93661
+18:48:36,882 train.py INFO Took 6.59013032913208 seconds
+18:48:36,958 train.py INFO epoch 29, lr [8.384710178454715e-05]
+18:48:42,678 train.py INFO train_top1_acc 79.21114, train_top5_acc 98.37587, train_loss 0.56919
+18:48:43,450 train.py INFO valid_top1_acc 48.19588, valid_top5_acc 89.43299, valid_loss 1.94609
+18:48:43,450 train.py INFO Took 6.492090463638306 seconds
+18:48:43,525 train.py INFO epoch 30, lr [8.100226234809077e-05]
+18:48:49,291 train.py INFO train_top1_acc 79.48956, train_top5_acc 98.37587, train_loss 0.56701
+18:48:50,62 train.py INFO valid_top1_acc 49.74227, valid_top5_acc 88.40206, valid_loss 1.89020
+18:48:50,63 train.py INFO Took 6.537465572357178 seconds
+18:48:50,159 train.py INFO epoch 31, lr [7.798404680338046e-05]
+18:48:56,114 train.py INFO train_top1_acc 81.90255, train_top5_acc 98.51508, train_loss 0.53084
+18:48:56,924 train.py INFO valid_top1_acc 51.03093, valid_top5_acc 90.20619, valid_loss 1.85462
+18:48:56,924 train.py INFO Took 6.764416933059692 seconds
+18:48:57,14 train.py INFO epoch 32, lr [7.480933423604408e-05]
+18:49:02,857 train.py INFO train_top1_acc 80.41763, train_top5_acc 98.70070, train_loss 0.53800
+18:49:03,643 train.py INFO valid_top1_acc 51.54639, valid_top5_acc 89.17526, valid_loss 1.98382
+18:49:03,643 train.py INFO Took 6.629258871078491 seconds
+18:49:03,720 train.py INFO epoch 33, lr [7.149587892654109e-05]
+18:49:09,449 train.py INFO train_top1_acc 82.73782, train_top5_acc 98.60789, train_loss 0.49652
+18:49:10,279 train.py INFO valid_top1_acc 51.03093, valid_top5_acc 89.69072, valid_loss 1.90282
+18:49:10,280 train.py INFO Took 6.559355020523071 seconds
+18:49:10,355 train.py INFO epoch 34, lr [6.806221106102442e-05]
+18:49:16,220 train.py INFO train_top1_acc 83.06265, train_top5_acc 98.88631, train_loss 0.47769
+18:49:17,7 train.py INFO valid_top1_acc 50.77320, valid_top5_acc 90.20619, valid_loss 2.01326
+18:49:17,8 train.py INFO Took 6.652153253555298 seconds
+18:49:17,101 train.py INFO epoch 35, lr [6.452753310302296e-05]
+18:49:23,18 train.py INFO train_top1_acc 82.87703, train_top5_acc 99.30394, train_loss 0.46906
+18:49:23,832 train.py INFO valid_top1_acc 51.28866, valid_top5_acc 88.65979, valid_loss 1.99684
+18:49:23,833 train.py INFO Took 6.731813430786133 seconds
+18:49:23,908 train.py INFO epoch 36, lr [6.091161240547628e-05]
+18:49:29,672 train.py INFO train_top1_acc 82.73782, train_top5_acc 98.70070, train_loss 0.47091
+18:49:30,517 train.py INFO valid_top1_acc 51.54639, valid_top5_acc 89.17526, valid_loss 2.08064
+18:49:30,517 train.py INFO Took 6.609190225601196 seconds
+18:49:30,592 train.py INFO epoch 37, lr [5.723467066367862e-05]
+18:49:36,480 train.py INFO train_top1_acc 84.77958, train_top5_acc 99.35035, train_loss 0.43142
+18:49:37,294 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 89.17526, valid_loss 2.04338
+18:49:37,294 train.py INFO Took 6.701902389526367 seconds
+18:49:37,375 train.py INFO epoch 38, lr [5.3517270827356055e-05]
+18:49:42,995 train.py INFO train_top1_acc 84.36195, train_top5_acc 99.25754, train_loss 0.43125
+18:49:43,788 train.py INFO valid_top1_acc 51.28866, valid_top5_acc 89.94845, valid_loss 2.06032
+18:49:43,788 train.py INFO Took 6.413249731063843 seconds
+18:49:43,882 train.py INFO epoch 39, lr [4.9780202104310603e-05]
+18:49:49,689 train.py INFO train_top1_acc 85.24362, train_top5_acc 98.88631, train_loss 0.41909
+18:49:50,470 train.py INFO valid_top1_acc 49.74227, valid_top5_acc 90.20619, valid_loss 2.17803
+18:49:50,470 train.py INFO Took 6.58733868598938 seconds
+18:49:50,563 train.py INFO epoch 40, lr [4.6044363698737266e-05]
+18:49:56,347 train.py INFO train_top1_acc 84.31555, train_top5_acc 99.21114, train_loss 0.42527
+18:49:57,113 train.py INFO valid_top1_acc 50.00000, valid_top5_acc 89.94845, valid_loss 2.13134
+18:49:57,114 train.py INFO Took 6.550906419754028 seconds
+18:49:57,213 train.py INFO epoch 41, lr [4.23306479343967e-05]
+18:50:03,129 train.py INFO train_top1_acc 85.15081, train_top5_acc 98.97912, train_loss 0.41011
+18:50:03,886 train.py INFO valid_top1_acc 48.96907, valid_top5_acc 89.43299, valid_loss 2.16818
+18:50:03,886 train.py INFO Took 6.672391891479492 seconds
+18:50:03,960 train.py INFO epoch 42, lr [3.8659823416266e-05]
+18:50:09,839 train.py INFO train_top1_acc 86.12529, train_top5_acc 99.30394, train_loss 0.39422
+18:50:10,591 train.py INFO valid_top1_acc 49.48454, valid_top5_acc 88.91753, valid_loss 2.20041
+18:50:10,591 train.py INFO Took 6.6312150955200195 seconds
+18:50:10,684 train.py INFO epoch 43, lr [3.505241888407512e-05]
+18:50:16,360 train.py INFO train_top1_acc 85.38283, train_top5_acc 99.07193, train_loss 0.41567
+18:50:17,158 train.py INFO valid_top1_acc 51.28866, valid_top5_acc 89.43299, valid_loss 2.19645
+18:50:17,159 train.py INFO Took 6.474801540374756 seconds
+18:50:17,232 train.py INFO epoch 44, lr [3.152860840726714e-05]
+18:50:23,14 train.py INFO train_top1_acc 87.42459, train_top5_acc 99.35035, train_loss 0.35341
+18:50:23,885 train.py INFO valid_top1_acc 51.54639, valid_top5_acc 89.94845, valid_loss 2.21430
+18:50:23,886 train.py INFO Took 6.65303111076355 seconds
+18:50:23,958 train.py INFO epoch 45, lr [2.810809856341852e-05]
+18:50:29,674 train.py INFO train_top1_acc 86.31090, train_top5_acc 99.30394, train_loss 0.38318
+18:50:30,454 train.py INFO valid_top1_acc 49.74227, valid_top5_acc 89.69072, valid_loss 2.20572
+18:50:30,454 train.py INFO Took 6.495535135269165 seconds
+18:50:30,527 train.py INFO epoch 46, lr [2.4810018231063663e-05]
+18:50:36,420 train.py INFO train_top1_acc 85.93968, train_top5_acc 99.21114, train_loss 0.39115
+18:50:37,229 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 89.43299, valid_loss 2.19923
+18:50:37,230 train.py INFO Took 6.702064514160156 seconds
+18:50:37,308 train.py INFO epoch 47, lr [2.1652811613246535e-05]
+18:50:43,432 train.py INFO train_top1_acc 86.82135, train_top5_acc 99.44316, train_loss 0.37819
+18:50:44,248 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.23944
+18:50:44,249 train.py INFO Took 6.9399542808532715 seconds
+18:50:44,340 train.py INFO epoch 48, lr [1.865413509005587e-05]
+18:50:50,202 train.py INFO train_top1_acc 87.28538, train_top5_acc 99.07193, train_loss 0.35610
+18:50:50,962 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 89.43299, valid_loss 2.25660
+18:50:50,963 train.py INFO Took 6.622093439102173 seconds
+18:50:51,70 train.py INFO epoch 49, lr [1.5830758476985374e-05]
+18:50:56,854 train.py INFO train_top1_acc 87.14617, train_top5_acc 99.21114, train_loss 0.35031
+18:50:57,684 train.py INFO valid_top1_acc 48.96907, valid_top5_acc 88.91753, valid_loss 2.27418
+18:50:57,684 train.py INFO Took 6.613295316696167 seconds
+18:50:57,776 train.py INFO epoch 50, lr [1.31984712413232e-05]
+18:51:03,561 train.py INFO train_top1_acc 86.91415, train_top5_acc 99.35035, train_loss 0.36066
+18:51:04,357 train.py INFO valid_top1_acc 49.22680, valid_top5_acc 88.91753, valid_loss 2.27301
+18:51:04,358 train.py INFO Took 6.581176280975342 seconds
+18:51:04,431 train.py INFO epoch 51, lr [1.0771994201045941e-05]
+18:51:10,176 train.py INFO train_top1_acc 87.93503, train_top5_acc 99.25754, train_loss 0.34609
+18:51:10,984 train.py INFO valid_top1_acc 49.22680, valid_top5_acc 88.91753, valid_loss 2.26674
+18:51:10,985 train.py INFO Took 6.553112506866455 seconds
+18:51:11,74 train.py INFO epoch 52, lr [8.564897200033236e-06]
+18:51:16,974 train.py INFO train_top1_acc 87.51740, train_top5_acc 99.25754, train_loss 0.35381
+18:51:17,751 train.py INFO valid_top1_acc 50.00000, valid_top5_acc 88.65979, valid_loss 2.26690
+18:51:17,751 train.py INFO Took 6.677286624908447 seconds
+18:51:17,844 train.py INFO epoch 53, lr [6.5895232199963765e-06]
+18:51:23,641 train.py INFO train_top1_acc 87.14617, train_top5_acc 99.35035, train_loss 0.36251
+18:51:24,386 train.py INFO valid_top1_acc 50.00000, valid_top5_acc 88.91753, valid_loss 2.26882
+18:51:24,386 train.py INFO Took 6.541910648345947 seconds
+18:51:24,477 train.py INFO epoch 54, lr [4.856919353517768e-06]
+18:51:30,126 train.py INFO train_top1_acc 88.77030, train_top5_acc 99.30394, train_loss 0.33368
+18:51:30,965 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.26936
+18:51:30,965 train.py INFO Took 6.488009691238403 seconds
+18:51:31,73 train.py INFO epoch 55, lr [3.376775024228096e-06]
+18:51:36,835 train.py INFO train_top1_acc 87.42459, train_top5_acc 99.48956, train_loss 0.33524
+18:51:37,608 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.27412
+18:51:37,608 train.py INFO Took 6.534420490264893 seconds
+18:51:37,684 train.py INFO epoch 56, lr [2.1573677996189995e-06]
+18:51:43,432 train.py INFO train_top1_acc 86.12529, train_top5_acc 99.11833, train_loss 0.36738
+18:51:44,216 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.27419
+18:51:44,217 train.py INFO Took 6.532750844955444 seconds
+18:51:44,290 train.py INFO epoch 57, lr [1.2055170995279593e-06]
+18:51:50,96 train.py INFO train_top1_acc 87.88863, train_top5_acc 99.35035, train_loss 0.34322
+18:51:50,930 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.28032
+18:51:50,930 train.py INFO Took 6.639674663543701 seconds
+18:51:51,5 train.py INFO epoch 58, lr [5.265460591763696e-07]
+18:51:56,874 train.py INFO train_top1_acc 87.93503, train_top5_acc 99.58237, train_loss 0.33252
+18:51:57,733 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.91753, valid_loss 2.27954
+18:51:57,733 train.py INFO Took 6.728235721588135 seconds
+18:51:57,870 train.py INFO epoch 59, lr [1.242517600380771e-07]
+18:52:03,689 train.py INFO train_top1_acc 86.26450, train_top5_acc 99.48956, train_loss 0.34844
+18:52:04,484 train.py INFO valid_top1_acc 50.25773, valid_top5_acc 88.65979, valid_loss 2.27884
+18:52:04,485 train.py INFO Took 6.6143200397491455 seconds
+18:52:04,640 train.py INFO Running test set inference...
+18:52:08,856 train.py INFO test_top1_acc 55.21038, test_top5_acc 93.47228
+18:55:18,898 train.py INFO epoch 0, lr [4.000000000000002e-06]
+18:55:25,766 train.py INFO train_top1_acc 10.95128, train_top3_acc 31.92575, train_loss 2.39525
+18:55:26,630 train.py INFO valid_top1_acc 12.88660, valid_top3_acc 30.67010, valid_loss 2.39475
+18:55:26,630 train.py INFO Took 7.731987237930298 seconds
+18:55:26,771 train.py INFO epoch 1, lr [4.734005272023187e-06]
+18:55:32,491 train.py INFO train_top1_acc 17.91183, train_top3_acc 41.02088, train_loss 2.38908
+18:55:33,278 train.py INFO valid_top1_acc 17.78351, valid_top3_acc 38.91753, valid_loss 2.39087
+18:55:33,279 train.py INFO Took 6.506910562515259 seconds
+18:55:33,437 train.py INFO epoch 2, lr [6.913572598952824e-06]
+18:55:39,243 train.py INFO train_top1_acc 22.27378, train_top3_acc 48.53828, train_loss 2.38054
+18:55:39,989 train.py INFO valid_top1_acc 25.77320, valid_top3_acc 47.68041, valid_loss 2.38288
+18:55:39,990 train.py INFO Took 6.552749156951904 seconds
+18:55:40,140 train.py INFO epoch 3, lr [1.047204306792659e-05]
+18:55:45,798 train.py INFO train_top1_acc 23.48028, train_top3_acc 53.50348, train_loss 2.36657
+18:55:46,552 train.py INFO valid_top1_acc 29.89691, valid_top3_acc 57.21649, valid_loss 2.36635
+18:55:46,552 train.py INFO Took 6.412573575973511 seconds
+18:55:46,713 train.py INFO epoch 4, lr [1.5300586008754264e-05]
+18:55:52,458 train.py INFO train_top1_acc 26.58933, train_top3_acc 56.24130, train_loss 2.34000
+18:55:53,213 train.py INFO valid_top1_acc 31.70103, valid_top3_acc 63.40206, valid_loss 2.33257
+18:55:53,213 train.py INFO Took 6.5002522468566895 seconds
+18:55:53,376 train.py INFO epoch 5, lr [2.125152742248759e-05]
+18:55:59,167 train.py INFO train_top1_acc 26.91415, train_top3_acc 58.09745, train_loss 2.28876
+18:55:59,942 train.py INFO valid_top1_acc 33.76289, valid_top3_acc 67.01031, valid_loss 2.25329
+18:55:59,942 train.py INFO Took 6.566202402114868 seconds
+18:56:00,79 train.py INFO epoch 6, lr [2.814286637699402e-05]
+18:56:05,748 train.py INFO train_top1_acc 29.51276, train_top3_acc 60.64965, train_loss 2.17605
+18:56:06,518 train.py INFO valid_top1_acc 34.27835, valid_top3_acc 68.55670, valid_loss 2.05441
+18:56:06,518 train.py INFO Took 6.439310312271118 seconds
+18:56:06,664 train.py INFO epoch 7, lr [3.576384124211078e-05]
+18:56:12,502 train.py INFO train_top1_acc 33.36427, train_top3_acc 65.80046, train_loss 1.97431
+18:56:13,255 train.py INFO valid_top1_acc 36.59794, valid_top3_acc 67.26804, valid_loss 1.86119
+18:56:13,255 train.py INFO Took 6.591229438781738 seconds
+18:56:13,399 train.py INFO epoch 8, lr [4.3881375529131536e-05]
+18:56:19,125 train.py INFO train_top1_acc 39.86079, train_top3_acc 70.16241, train_loss 1.78587
+18:56:19,918 train.py INFO valid_top1_acc 37.62887, valid_top3_acc 69.07216, valid_loss 1.79890
+18:56:19,918 train.py INFO Took 6.518783092498779 seconds
+18:56:20,64 train.py INFO epoch 9, lr [5.224720619795204e-05]
+18:56:25,835 train.py INFO train_top1_acc 44.03712, train_top3_acc 75.45244, train_loss 1.63650
+18:56:26,597 train.py INFO valid_top1_acc 39.17526, valid_top3_acc 68.81443, valid_loss 1.76857
+18:56:26,598 train.py INFO Took 6.533318758010864 seconds
+18:56:26,764 train.py INFO epoch 10, lr [6.0605476422915306e-05]
+18:56:32,393 train.py INFO train_top1_acc 45.70766, train_top3_acc 77.77262, train_loss 1.52499
+18:56:33,154 train.py INFO valid_top1_acc 44.58763, valid_top3_acc 69.84536, valid_loss 1.69648
+18:56:33,155 train.py INFO Took 6.3901824951171875 seconds
+18:56:33,297 train.py INFO epoch 11, lr [6.87005606035998e-05]
+18:56:38,915 train.py INFO train_top1_acc 49.51276, train_top3_acc 80.92807, train_loss 1.43082
+18:56:39,690 train.py INFO valid_top1_acc 45.10309, valid_top3_acc 71.64948, valid_loss 1.72175
+18:56:39,691 train.py INFO Took 6.393802881240845 seconds
+18:56:39,779 train.py INFO epoch 12, lr [7.628488230391824e-05]
+18:56:45,496 train.py INFO train_top1_acc 51.41531, train_top3_acc 82.78422, train_loss 1.35828
+18:56:46,282 train.py INFO valid_top1_acc 46.13402, valid_top3_acc 73.45361, valid_loss 1.71163
+18:56:46,282 train.py INFO Took 6.502347469329834 seconds
+18:56:46,399 train.py INFO epoch 13, lr [8.312648601917256e-05]
+18:56:52,248 train.py INFO train_top1_acc 54.80278, train_top3_acc 84.64037, train_loss 1.27676
+18:56:53,49 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 75.51546, valid_loss 1.64110
+18:56:53,49 train.py INFO Took 6.649571418762207 seconds
+18:56:53,189 train.py INFO epoch 14, lr [8.90161311995257e-05]
+18:56:58,967 train.py INFO train_top1_acc 56.61253, train_top3_acc 85.70766, train_loss 1.20471
+18:56:59,777 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 75.00000, valid_loss 1.60527
+18:56:59,778 train.py INFO Took 6.588346719741821 seconds
+18:56:59,975 train.py INFO epoch 15, lr [9.377369156944746e-05]
+18:57:05,687 train.py INFO train_top1_acc 58.05104, train_top3_acc 87.00696, train_loss 1.13089
+18:57:06,430 train.py INFO valid_top1_acc 48.71134, valid_top3_acc 75.25773, valid_loss 1.60352
+18:57:06,430 train.py INFO Took 6.454819679260254 seconds
+18:57:06,602 train.py INFO epoch 16, lr [9.725366402920899e-05]
+18:57:12,256 train.py INFO train_top1_acc 62.18097, train_top3_acc 88.44548, train_loss 1.06150
+18:57:13,66 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 77.57732, valid_loss 1.58899
+18:57:13,66 train.py INFO Took 6.464113235473633 seconds
+18:57:13,211 train.py INFO epoch 17, lr [9.934961865664531e-05]
+18:57:18,900 train.py INFO train_top1_acc 63.66589, train_top3_acc 89.79118, train_loss 1.00459
+18:57:19,669 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 74.48454, valid_loss 1.65268
+18:57:19,669 train.py INFO Took 6.458315372467041 seconds
+18:57:19,771 train.py INFO epoch 18, lr [9.999951600498043e-05]
+18:57:25,593 train.py INFO train_top1_acc 66.07889, train_top3_acc 90.48724, train_loss 0.95419
+18:57:26,364 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 75.51546, valid_loss 1.59387
+18:57:26,365 train.py INFO Took 6.593692302703857 seconds
+18:57:26,473 train.py INFO epoch 19, lr [9.984326731329456e-05]
+18:57:32,72 train.py INFO train_top1_acc 67.23898, train_top3_acc 91.32251, train_loss 0.92404
+18:57:32,825 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 76.03093, valid_loss 1.58381
+18:57:32,825 train.py INFO Took 6.352163791656494 seconds
+18:57:32,958 train.py INFO epoch 20, lr [9.940827597096855e-05]
+18:57:38,602 train.py INFO train_top1_acc 68.72390, train_top3_acc 91.18329, train_loss 0.88824
+18:57:39,401 train.py INFO valid_top1_acc 52.06186, valid_top3_acc 80.15464, valid_loss 1.51668
+18:57:39,401 train.py INFO Took 6.443215847015381 seconds
+18:57:39,556 train.py INFO epoch 21, lr [9.869697462603758e-05]
+18:57:45,312 train.py INFO train_top1_acc 70.85847, train_top3_acc 91.87935, train_loss 0.82015
+18:57:46,65 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 78.35052, valid_loss 1.57590
+18:57:46,66 train.py INFO Took 6.509036064147949 seconds
+18:57:46,175 train.py INFO epoch 22, lr [9.77133411641531e-05]
+18:57:51,976 train.py INFO train_top1_acc 70.81206, train_top3_acc 92.71462, train_loss 0.81410
+18:57:52,737 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 78.86598, valid_loss 1.61125
+18:57:52,737 train.py INFO Took 6.561308860778809 seconds
+18:57:52,857 train.py INFO epoch 23, lr [9.646287646263268e-05]
+18:57:58,676 train.py INFO train_top1_acc 73.92111, train_top3_acc 93.87471, train_loss 0.74068
+18:57:59,442 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 76.80412, valid_loss 1.79731
+18:57:59,442 train.py INFO Took 6.585209846496582 seconds
+18:57:59,526 train.py INFO epoch 24, lr [9.495257362732283e-05]
+18:58:05,301 train.py INFO train_top1_acc 75.45244, train_top3_acc 94.57077, train_loss 0.67683
+18:58:06,29 train.py INFO valid_top1_acc 46.39175, valid_top3_acc 76.03093, valid_loss 1.98661
+18:58:06,30 train.py INFO Took 6.503815650939941 seconds
+18:58:06,148 train.py INFO epoch 25, lr [9.319087888431422e-05]
+18:58:11,977 train.py INFO train_top1_acc 75.22042, train_top3_acc 94.47796, train_loss 0.68697
+18:58:12,740 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 76.28866, valid_loss 1.81181
+18:58:12,741 train.py INFO Took 6.5923402309417725 seconds
+18:58:12,826 train.py INFO epoch 26, lr [9.118764434521951e-05]
+18:58:18,580 train.py INFO train_top1_acc 76.79814, train_top3_acc 95.03480, train_loss 0.66245
+18:58:19,362 train.py INFO valid_top1_acc 46.64948, valid_top3_acc 75.00000, valid_loss 1.98009
+18:58:19,362 train.py INFO Took 6.536230087280273 seconds
+18:58:19,453 train.py INFO epoch 27, lr [8.895407291016861e-05]
+18:58:25,182 train.py INFO train_top1_acc 77.81903, train_top3_acc 95.12761, train_loss 0.62061
+18:58:25,986 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 78.35052, valid_loss 1.79672
+18:58:25,986 train.py INFO Took 6.53256893157959 seconds
+18:58:26,69 train.py INFO epoch 28, lr [8.6502655616647e-05]
+18:58:31,842 train.py INFO train_top1_acc 78.93271, train_top3_acc 95.68445, train_loss 0.57700
+18:58:32,653 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 78.60825, valid_loss 1.78076
+18:58:32,653 train.py INFO Took 6.583417177200317 seconds
+18:58:32,758 train.py INFO epoch 29, lr [8.384710178454715e-05]
+18:58:38,459 train.py INFO train_top1_acc 79.90719, train_top3_acc 95.35963, train_loss 0.58241
+18:58:39,230 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 78.09278, valid_loss 1.84427
+18:58:39,231 train.py INFO Took 6.4719078540802 seconds
+18:58:39,343 train.py INFO epoch 30, lr [8.100226234809077e-05]
+18:58:45,116 train.py INFO train_top1_acc 81.25290, train_top3_acc 96.89095, train_loss 0.52543
+18:58:45,918 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 77.57732, valid_loss 1.89066
+18:58:45,918 train.py INFO Took 6.574570894241333 seconds
+18:58:46,19 train.py INFO epoch 31, lr [7.798404680338046e-05]
+18:58:51,873 train.py INFO train_top1_acc 82.13457, train_top3_acc 96.00928, train_loss 0.50356
+18:58:52,661 train.py INFO valid_top1_acc 48.45361, valid_top3_acc 75.77320, valid_loss 1.94788
+18:58:52,662 train.py INFO Took 6.641793966293335 seconds
+18:58:52,775 train.py INFO epoch 32, lr [7.480933423604408e-05]
+18:58:58,514 train.py INFO train_top1_acc 81.90255, train_top3_acc 96.56613, train_loss 0.51075
+18:58:59,278 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 76.80412, valid_loss 1.99969
+18:58:59,279 train.py INFO Took 6.5032947063446045 seconds
+18:58:59,366 train.py INFO epoch 33, lr [7.149587892654109e-05]
+18:59:05,294 train.py INFO train_top1_acc 82.87703, train_top3_acc 96.98376, train_loss 0.47584
+18:59:06,71 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 76.28866, valid_loss 1.87998
+18:59:06,72 train.py INFO Took 6.705665111541748 seconds
+18:59:06,170 train.py INFO epoch 34, lr [6.806221106102442e-05]
+18:59:11,810 train.py INFO train_top1_acc 82.92343, train_top3_acc 96.70534, train_loss 0.47628
+18:59:12,614 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 77.57732, valid_loss 1.75132
+18:59:12,614 train.py INFO Took 6.443296432495117 seconds
+18:59:12,710 train.py INFO epoch 35, lr [6.452753310302296e-05]
+18:59:18,398 train.py INFO train_top1_acc 82.78422, train_top3_acc 96.38051, train_loss 0.48333
+18:59:19,189 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 77.83505, valid_loss 1.78368
+18:59:19,189 train.py INFO Took 6.478730916976929 seconds
+18:59:19,281 train.py INFO epoch 36, lr [6.091161240547628e-05]
+18:59:25,112 train.py INFO train_top1_acc 85.52204, train_top3_acc 97.81903, train_loss 0.39537
+18:59:25,929 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 76.28866, valid_loss 1.88620
+18:59:25,929 train.py INFO Took 6.647823095321655 seconds
+18:59:26,33 train.py INFO epoch 37, lr [5.723467066367862e-05]
+18:59:31,765 train.py INFO train_top1_acc 86.07889, train_top3_acc 97.63341, train_loss 0.40736
+18:59:32,512 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 76.54639, valid_loss 1.95278
+18:59:32,513 train.py INFO Took 6.479293346405029 seconds
+18:59:32,608 train.py INFO epoch 38, lr [5.3517270827356055e-05]
+18:59:38,463 train.py INFO train_top1_acc 84.22274, train_top3_acc 97.12297, train_loss 0.43639
+18:59:39,244 train.py INFO valid_top1_acc 48.45361, valid_top3_acc 78.60825, valid_loss 2.09751
+18:59:39,245 train.py INFO Took 6.636109828948975 seconds
+18:59:39,332 train.py INFO epoch 39, lr [4.9780202104310603e-05]
+18:59:45,186 train.py INFO train_top1_acc 84.96520, train_top3_acc 96.70534, train_loss 0.44522
+18:59:45,937 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 77.57732, valid_loss 2.12382
+18:59:45,937 train.py INFO Took 6.605159044265747 seconds
+18:59:46,47 train.py INFO epoch 40, lr [4.6044363698737266e-05]
+18:59:51,904 train.py INFO train_top1_acc 84.82599, train_top3_acc 97.58701, train_loss 0.41504
+18:59:52,697 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 77.31959, valid_loss 2.09801
+18:59:52,697 train.py INFO Took 6.649930477142334 seconds
+18:59:52,785 train.py INFO epoch 41, lr [4.23306479343967e-05]
+18:59:58,363 train.py INFO train_top1_acc 85.24362, train_top3_acc 97.35499, train_loss 0.41324
+18:59:59,156 train.py INFO valid_top1_acc 51.28866, valid_top3_acc 77.83505, valid_loss 2.04686
+18:59:59,156 train.py INFO Took 6.371399879455566 seconds
+18:59:59,270 train.py INFO epoch 42, lr [3.8659823416266e-05]
+19:00:05,182 train.py INFO train_top1_acc 86.58933, train_top3_acc 98.14385, train_loss 0.37902
+19:00:05,949 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 77.57732, valid_loss 2.13396
+19:00:05,949 train.py INFO Took 6.678796052932739 seconds
+19:00:06,35 train.py INFO epoch 43, lr [3.505241888407512e-05]
+19:00:11,758 train.py INFO train_top1_acc 88.02784, train_top3_acc 97.81903, train_loss 0.34683
+19:00:12,538 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 77.06186, valid_loss 2.14021
+19:00:12,538 train.py INFO Took 6.502735614776611 seconds
+19:00:12,629 train.py INFO epoch 44, lr [3.152860840726714e-05]
+19:00:18,362 train.py INFO train_top1_acc 85.84687, train_top3_acc 97.49420, train_loss 0.39439
+19:00:19,125 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 78.35052, valid_loss 2.05407
+19:00:19,125 train.py INFO Took 6.495512008666992 seconds
+19:00:19,252 train.py INFO epoch 45, lr [2.810809856341852e-05]
+19:00:25,10 train.py INFO train_top1_acc 86.86775, train_top3_acc 97.30858, train_loss 0.38393
+19:00:25,784 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 78.35052, valid_loss 2.07456
+19:00:25,784 train.py INFO Took 6.532165050506592 seconds
+19:00:25,879 train.py INFO epoch 46, lr [2.4810018231063663e-05]
+19:00:31,744 train.py INFO train_top1_acc 87.65661, train_top3_acc 98.09745, train_loss 0.36337
+19:00:32,531 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 79.12371, valid_loss 2.09852
+19:00:32,532 train.py INFO Took 6.651832103729248 seconds
+19:00:32,642 train.py INFO epoch 47, lr [2.1652811613246535e-05]
+19:00:38,438 train.py INFO train_top1_acc 86.58933, train_top3_acc 97.81903, train_loss 0.36081
+19:00:39,214 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 78.09278, valid_loss 2.11706
+19:00:39,214 train.py INFO Took 6.572211027145386 seconds
+19:00:39,315 train.py INFO epoch 48, lr [1.865413509005587e-05]
+19:00:44,982 train.py INFO train_top1_acc 86.17169, train_top3_acc 97.72622, train_loss 0.38163
+19:00:45,778 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 78.60825, valid_loss 2.14081
+19:00:45,779 train.py INFO Took 6.462880373001099 seconds
+19:00:45,868 train.py INFO epoch 49, lr [1.5830758476985374e-05]
+19:00:51,742 train.py INFO train_top1_acc 87.98144, train_top3_acc 98.05104, train_loss 0.34754
+19:00:52,493 train.py INFO valid_top1_acc 48.45361, valid_top3_acc 78.35052, valid_loss 2.14379
+19:00:52,494 train.py INFO Took 6.624894618988037 seconds
+19:00:52,600 train.py INFO epoch 50, lr [1.31984712413232e-05]
+19:00:58,457 train.py INFO train_top1_acc 87.23898, train_top3_acc 98.19026, train_loss 0.36838
+19:00:59,214 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 78.35052, valid_loss 2.11379
+19:00:59,214 train.py INFO Took 6.613650321960449 seconds
+19:00:59,299 train.py INFO epoch 51, lr [1.0771994201045941e-05]
+19:01:05,134 train.py INFO train_top1_acc 88.58469, train_top3_acc 98.14385, train_loss 0.33374
+19:01:05,915 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 78.35052, valid_loss 2.08802
+19:01:05,915 train.py INFO Took 6.615863800048828 seconds
+19:01:06,13 train.py INFO epoch 52, lr [8.564897200033236e-06]
+19:01:11,830 train.py INFO train_top1_acc 87.74942, train_top3_acc 97.86543, train_loss 0.35217
+19:01:12,597 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 78.35052, valid_loss 2.08204
+19:01:12,597 train.py INFO Took 6.583986520767212 seconds
+19:01:12,700 train.py INFO epoch 53, lr [6.5895232199963765e-06]
+19:01:18,542 train.py INFO train_top1_acc 86.82135, train_top3_acc 97.44780, train_loss 0.36644
+19:01:19,330 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 78.86598, valid_loss 2.07511
+19:01:19,331 train.py INFO Took 6.630126714706421 seconds
+19:01:19,457 train.py INFO epoch 54, lr [4.856919353517768e-06]
+19:01:25,218 train.py INFO train_top1_acc 87.93503, train_top3_acc 98.00464, train_loss 0.34505
+19:01:25,989 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 78.60825, valid_loss 2.06687
+19:01:25,989 train.py INFO Took 6.53142237663269 seconds
+19:01:26,72 train.py INFO epoch 55, lr [3.376775024228096e-06]
+19:01:31,944 train.py INFO train_top1_acc 86.86775, train_top3_acc 98.14385, train_loss 0.35595
+19:01:32,741 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 78.60825, valid_loss 2.06879
+19:01:32,741 train.py INFO Took 6.669275283813477 seconds
+19:01:32,840 train.py INFO epoch 56, lr [2.1573677996189995e-06]
+19:01:38,613 train.py INFO train_top1_acc 87.47100, train_top3_acc 98.19026, train_loss 0.34112
+19:01:39,402 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 79.12371, valid_loss 2.06783
+19:01:39,402 train.py INFO Took 6.561145067214966 seconds
+19:01:39,487 train.py INFO epoch 57, lr [1.2055170995279593e-06]
+19:01:45,172 train.py INFO train_top1_acc 87.33179, train_top3_acc 97.86543, train_loss 0.35166
+19:01:45,979 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 79.12371, valid_loss 2.06475
+19:01:45,979 train.py INFO Took 6.491217374801636 seconds
+19:01:46,81 train.py INFO epoch 58, lr [5.265460591763696e-07]
+19:01:51,817 train.py INFO train_top1_acc 87.79582, train_top3_acc 98.46868, train_loss 0.33707
+19:01:52,661 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 79.12371, valid_loss 2.06257
+19:01:52,661 train.py INFO Took 6.579392671585083 seconds
+19:01:52,829 train.py INFO epoch 59, lr [1.242517600380771e-07]
+19:01:58,588 train.py INFO train_top1_acc 88.49188, train_top3_acc 98.70070, train_loss 0.31313
+19:01:59,370 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 79.38144, valid_loss 2.06039
+19:01:59,370 train.py INFO Took 6.540141344070435 seconds
+19:01:59,561 train.py INFO Running test set inference...
+19:02:04,30 train.py INFO test_top1_acc 69.24892, test_top3_acc 91.86001
+19:02:44,62 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:03:32,678 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:04:03,888 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:07:14,571 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:07:23,710 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:07:30,462 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:07:43,930 train.py INFO train_top1_acc 8.95592, train_top3_acc 29.14153, train_loss 2.39666
+19:07:44,803 train.py INFO valid_top1_acc 8.24742, valid_top3_acc 23.71134, valid_loss 2.39800
+19:07:44,803 train.py INFO Took 14.34058690071106 seconds
+19:07:45,6 train.py INFO epoch 1, lr [4.734005272023187e-06]
+19:07:58,250 train.py INFO train_top1_acc 14.24594, train_top3_acc 39.16473, train_loss 2.39023
+19:07:59,13 train.py INFO valid_top1_acc 12.37113, valid_top3_acc 32.21649, valid_loss 2.39397
+19:07:59,13 train.py INFO Took 14.006511211395264 seconds
+19:07:59,150 train.py INFO epoch 2, lr [6.913572598952824e-06]
+19:08:13,764 train.py INFO epoch 0, lr [4.000000000000002e-06]
+19:08:27,325 train.py INFO train_top1_acc 9.83759, train_top3_acc 29.65197, train_loss 2.39642
+19:08:28,223 train.py INFO valid_top1_acc 11.34021, valid_top3_acc 35.82474, valid_loss 2.39621
+19:08:28,223 train.py INFO Took 14.458492517471313 seconds
+19:08:28,384 train.py INFO epoch 1, lr [4.734005272023187e-06]
+19:08:41,523 train.py INFO train_top1_acc 15.54524, train_top3_acc 38.46868, train_loss 2.39069
+19:08:42,277 train.py INFO valid_top1_acc 17.78351, valid_top3_acc 37.37113, valid_loss 2.39297
+19:08:42,278 train.py INFO Took 13.893147468566895 seconds
+19:08:42,457 train.py INFO epoch 2, lr [6.913572598952824e-06]
+19:08:55,638 train.py INFO train_top1_acc 18.23666, train_top3_acc 44.12993, train_loss 2.38437
+19:08:56,427 train.py INFO valid_top1_acc 21.90722, valid_top3_acc 44.32990, valid_loss 2.38679
+19:08:56,428 train.py INFO Took 13.970532178878784 seconds
+19:08:56,562 train.py INFO epoch 3, lr [1.047204306792659e-05]
+19:09:09,762 train.py INFO train_top1_acc 21.20650, train_top3_acc 48.63109, train_loss 2.37142
+19:09:10,502 train.py INFO valid_top1_acc 28.86598, valid_top3_acc 53.86598, valid_loss 2.37410
+19:09:10,502 train.py INFO Took 13.93984866142273 seconds
+19:09:10,668 train.py INFO epoch 4, lr [1.5300586008754264e-05]
+19:09:23,866 train.py INFO train_top1_acc 23.57309, train_top3_acc 50.20882, train_loss 2.34771
+19:09:24,667 train.py INFO valid_top1_acc 32.47423, valid_top3_acc 56.70103, valid_loss 2.34743
+19:09:24,667 train.py INFO Took 13.998514175415039 seconds
+19:09:24,859 train.py INFO epoch 5, lr [2.125152742248759e-05]
+19:09:38,68 train.py INFO train_top1_acc 24.54756, train_top3_acc 52.66821, train_loss 2.30567
+19:09:38,906 train.py INFO valid_top1_acc 33.76289, valid_top3_acc 64.17526, valid_loss 2.28609
+19:09:38,906 train.py INFO Took 14.046757936477661 seconds
+19:09:39,100 train.py INFO epoch 6, lr [2.814286637699402e-05]
+19:09:52,185 train.py INFO train_top1_acc 26.68213, train_top3_acc 56.00928, train_loss 2.21235
+19:09:52,958 train.py INFO valid_top1_acc 34.27835, valid_top3_acc 67.01031, valid_loss 2.13375
+19:09:52,958 train.py INFO Took 13.857980012893677 seconds
+19:09:53,108 train.py INFO epoch 7, lr [3.576384124211078e-05]
+19:10:06,209 train.py INFO train_top1_acc 32.15777, train_top3_acc 60.60325, train_loss 2.03377
+19:10:06,973 train.py INFO valid_top1_acc 32.98969, valid_top3_acc 65.46392, valid_loss 1.91940
+19:10:06,974 train.py INFO Took 13.86591649055481 seconds
+19:10:07,126 train.py INFO epoch 8, lr [4.3881375529131536e-05]
+19:10:20,130 train.py INFO train_top1_acc 35.35963, train_top3_acc 65.66125, train_loss 1.87446
+19:10:20,962 train.py INFO valid_top1_acc 34.02062, valid_top3_acc 65.72165, valid_loss 1.89201
+19:10:20,963 train.py INFO Took 13.83692216873169 seconds
+19:10:21,99 train.py INFO epoch 9, lr [5.224720619795204e-05]
+19:10:34,208 train.py INFO train_top1_acc 40.78886, train_top3_acc 71.36891, train_loss 1.75063
+19:10:34,972 train.py INFO valid_top1_acc 38.14433, valid_top3_acc 67.01031, valid_loss 1.85901
+19:10:34,972 train.py INFO Took 13.873340606689453 seconds
+19:10:35,108 train.py INFO epoch 10, lr [6.0605476422915306e-05]
+19:10:48,212 train.py INFO train_top1_acc 44.03712, train_top3_acc 74.80278, train_loss 1.63617
+19:10:48,990 train.py INFO valid_top1_acc 39.17526, valid_top3_acc 67.78351, valid_loss 1.84014
+19:10:48,991 train.py INFO Took 13.882229566574097 seconds
+19:10:49,143 train.py INFO epoch 11, lr [6.87005606035998e-05]
+19:11:02,259 train.py INFO train_top1_acc 46.86775, train_top3_acc 77.54060, train_loss 1.53401
+19:11:03,8 train.py INFO valid_top1_acc 44.84536, valid_top3_acc 70.87629, valid_loss 1.73239
+19:11:03,8 train.py INFO Took 13.864404439926147 seconds
+19:11:03,155 train.py INFO epoch 12, lr [7.628488230391824e-05]
+19:11:16,345 train.py INFO train_top1_acc 48.25986, train_top3_acc 79.76798, train_loss 1.46776
+19:11:17,82 train.py INFO valid_top1_acc 48.71134, valid_top3_acc 71.64948, valid_loss 1.68142
+19:11:17,83 train.py INFO Took 13.92733120918274 seconds
+19:11:17,269 train.py INFO epoch 13, lr [8.312648601917256e-05]
+19:11:30,363 train.py INFO train_top1_acc 50.81206, train_top3_acc 80.51044, train_loss 1.40571
+19:11:31,126 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 73.96907, valid_loss 1.59442
+19:11:31,126 train.py INFO Took 13.856735944747925 seconds
+19:11:31,275 train.py INFO epoch 14, lr [8.90161311995257e-05]
+19:11:44,582 train.py INFO train_top1_acc 51.78654, train_top3_acc 83.52668, train_loss 1.34507
+19:11:45,362 train.py INFO valid_top1_acc 48.71134, valid_top3_acc 75.00000, valid_loss 1.63814
+19:11:45,362 train.py INFO Took 14.086594104766846 seconds
+19:11:45,522 train.py INFO epoch 15, lr [9.377369156944746e-05]
+19:11:58,569 train.py INFO train_top1_acc 52.99304, train_top3_acc 83.75870, train_loss 1.29704
+19:11:59,368 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 75.77320, valid_loss 1.61273
+19:11:59,369 train.py INFO Took 13.846028327941895 seconds
+19:11:59,454 train.py INFO epoch 16, lr [9.725366402920899e-05]
+19:12:12,688 train.py INFO train_top1_acc 56.00928, train_top3_acc 84.87239, train_loss 1.25876
+19:12:13,440 train.py INFO valid_top1_acc 46.64948, valid_top3_acc 75.00000, valid_loss 1.63518
+19:12:13,440 train.py INFO Took 13.985536336898804 seconds
+19:12:13,541 train.py INFO epoch 17, lr [9.934961865664531e-05]
+19:12:26,737 train.py INFO train_top1_acc 57.77262, train_top3_acc 86.17169, train_loss 1.19307
+19:12:27,504 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 75.51546, valid_loss 1.61251
+19:12:27,504 train.py INFO Took 13.96242070198059 seconds
+19:12:27,597 train.py INFO epoch 18, lr [9.999951600498043e-05]
+19:12:40,769 train.py INFO train_top1_acc 57.21578, train_top3_acc 86.58933, train_loss 1.16010
+19:12:41,554 train.py INFO valid_top1_acc 47.93814, valid_top3_acc 76.80412, valid_loss 1.68861
+19:12:41,555 train.py INFO Took 13.956696271896362 seconds
+19:12:41,678 train.py INFO epoch 19, lr [9.984326731329456e-05]
+19:12:54,766 train.py INFO train_top1_acc 59.16473, train_top3_acc 87.84223, train_loss 1.12249
+19:12:55,560 train.py INFO valid_top1_acc 48.19588, valid_top3_acc 77.31959, valid_loss 1.70762
+19:12:55,560 train.py INFO Took 13.882041215896606 seconds
+19:12:55,675 train.py INFO epoch 20, lr [9.940827597096855e-05]
+19:13:08,774 train.py INFO train_top1_acc 61.76334, train_top3_acc 88.25986, train_loss 1.07662
+19:13:09,550 train.py INFO valid_top1_acc 51.28866, valid_top3_acc 76.80412, valid_loss 1.66044
+19:13:09,550 train.py INFO Took 13.874382019042969 seconds
+19:13:09,635 train.py INFO epoch 21, lr [9.869697462603758e-05]
+19:13:22,731 train.py INFO train_top1_acc 61.29930, train_top3_acc 88.39907, train_loss 1.06635
+19:13:23,487 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 76.80412, valid_loss 1.61350
+19:13:23,487 train.py INFO Took 13.85184383392334 seconds
+19:13:23,581 train.py INFO epoch 22, lr [9.77133411641531e-05]
+19:13:36,817 train.py INFO train_top1_acc 63.48028, train_top3_acc 89.46636, train_loss 1.00998
+19:13:37,619 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 76.80412, valid_loss 1.74719
+19:13:37,619 train.py INFO Took 14.037583827972412 seconds
+19:13:37,706 train.py INFO epoch 23, lr [9.646287646263268e-05]
+19:13:50,770 train.py INFO train_top1_acc 64.59397, train_top3_acc 90.20882, train_loss 0.96328
+19:13:51,538 train.py INFO valid_top1_acc 51.28866, valid_top3_acc 78.09278, valid_loss 1.62985
+19:13:51,538 train.py INFO Took 13.83216905593872 seconds
+19:13:51,657 train.py INFO epoch 24, lr [9.495257362732283e-05]
+19:14:04,822 train.py INFO train_top1_acc 66.72854, train_top3_acc 90.39443, train_loss 0.94938
+19:14:05,596 train.py INFO valid_top1_acc 53.35052, valid_top3_acc 77.83505, valid_loss 1.60876
+19:14:05,596 train.py INFO Took 13.938270568847656 seconds
+19:14:05,687 train.py INFO epoch 25, lr [9.319087888431422e-05]
+19:14:18,863 train.py INFO train_top1_acc 66.68213, train_top3_acc 90.02320, train_loss 0.93651
+19:14:19,668 train.py INFO valid_top1_acc 53.60825, valid_top3_acc 77.83505, valid_loss 1.58965
+19:14:19,668 train.py INFO Took 13.980927228927612 seconds
+19:14:19,825 train.py INFO epoch 26, lr [9.118764434521951e-05]
+19:14:32,874 train.py INFO train_top1_acc 66.72854, train_top3_acc 90.71926, train_loss 0.91825
+19:14:33,630 train.py INFO valid_top1_acc 55.15464, valid_top3_acc 79.12371, valid_loss 1.55018
+19:14:33,630 train.py INFO Took 13.804376602172852 seconds
+19:14:33,765 train.py INFO epoch 27, lr [8.895407291016861e-05]
+19:14:46,891 train.py INFO train_top1_acc 68.02784, train_top3_acc 92.01856, train_loss 0.86444
+19:14:47,689 train.py INFO valid_top1_acc 52.31959, valid_top3_acc 78.09278, valid_loss 1.67723
+19:14:47,690 train.py INFO Took 13.924602031707764 seconds
+19:14:47,809 train.py INFO epoch 28, lr [8.6502655616647e-05]
+19:15:00,961 train.py INFO train_top1_acc 69.55916, train_top3_acc 91.64733, train_loss 0.85490
+19:15:01,750 train.py INFO valid_top1_acc 52.57732, valid_top3_acc 77.06186, valid_loss 1.75730
+19:15:01,750 train.py INFO Took 13.940457582473755 seconds
+19:15:01,850 train.py INFO epoch 29, lr [8.384710178454715e-05]
+19:15:15,49 train.py INFO train_top1_acc 70.81207, train_top3_acc 93.03944, train_loss 0.82864
+19:15:15,778 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 74.74227, valid_loss 1.80017
+19:15:15,778 train.py INFO Took 13.927402019500732 seconds
+19:15:15,896 train.py INFO epoch 30, lr [8.100226234809077e-05]
+19:15:29,100 train.py INFO train_top1_acc 71.74014, train_top3_acc 92.71462, train_loss 0.79802
+19:15:29,874 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 77.57732, valid_loss 1.78287
+19:15:29,874 train.py INFO Took 13.978042364120483 seconds
+19:15:29,967 train.py INFO epoch 31, lr [7.798404680338046e-05]
+19:15:43,27 train.py INFO train_top1_acc 70.90487, train_top3_acc 92.48260, train_loss 0.80238
+19:15:43,803 train.py INFO valid_top1_acc 52.57732, valid_top3_acc 77.57732, valid_loss 1.70451
+19:15:43,803 train.py INFO Took 13.835286617279053 seconds
+19:15:43,908 train.py INFO epoch 32, lr [7.480933423604408e-05]
+19:15:56,971 train.py INFO train_top1_acc 71.60093, train_top3_acc 93.17865, train_loss 0.77161
+19:15:57,792 train.py INFO valid_top1_acc 52.57732, valid_top3_acc 75.51546, valid_loss 1.77200
+19:15:57,793 train.py INFO Took 13.884396076202393 seconds
+19:15:57,903 train.py INFO epoch 33, lr [7.149587892654109e-05]
+19:16:11,23 train.py INFO train_top1_acc 74.19954, train_top3_acc 93.68910, train_loss 0.73498
+19:16:11,758 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 76.54639, valid_loss 1.86180
+19:16:11,759 train.py INFO Took 13.855155229568481 seconds
+19:16:11,870 train.py INFO epoch 34, lr [6.806221106102442e-05]
+19:16:28,593 train.py INFO epoch 0, lr [1.200000000000002e-05]
+19:16:42,1 train.py INFO train_top1_acc 16.28770, train_top3_acc 40.51044, train_loss 2.38962
+19:16:42,911 train.py INFO valid_top1_acc 17.52577, valid_top3_acc 31.44330, valid_loss 2.39157
+19:16:42,911 train.py INFO Took 14.317968606948853 seconds
+19:16:43,76 train.py INFO epoch 1, lr [1.4202015816069588e-05]
+19:16:56,156 train.py INFO train_top1_acc 22.41299, train_top3_acc 50.02320, train_loss 2.37247
+19:16:56,925 train.py INFO valid_top1_acc 25.00000, valid_top3_acc 42.26804, valid_loss 2.37850
+19:16:56,926 train.py INFO Took 13.849471092224121 seconds
+19:16:57,106 train.py INFO epoch 2, lr [2.074071779685846e-05]
+19:17:10,64 train.py INFO train_top1_acc 25.66125, train_top3_acc 51.74014, train_loss 2.34329
+19:17:10,829 train.py INFO valid_top1_acc 28.86598, valid_top3_acc 55.15464, valid_loss 2.34498
+19:17:10,829 train.py INFO Took 13.723248958587646 seconds
+19:17:10,966 train.py INFO epoch 3, lr [3.141612920377977e-05]
+19:17:24,90 train.py INFO train_top1_acc 27.09977, train_top3_acc 55.12761, train_loss 2.27606
+19:17:24,838 train.py INFO valid_top1_acc 33.24742, valid_top3_acc 60.82474, valid_loss 2.24282
+19:17:24,838 train.py INFO Took 13.871621131896973 seconds
+19:17:24,982 train.py INFO epoch 4, lr [4.590175802626279e-05]
+19:17:37,998 train.py INFO train_top1_acc 29.55916, train_top3_acc 59.16473, train_loss 2.12865
+19:17:38,814 train.py INFO valid_top1_acc 32.21649, valid_top3_acc 63.65979, valid_loss 2.00483
+19:17:38,815 train.py INFO Took 13.832767248153687 seconds
+19:17:38,961 train.py INFO epoch 5, lr [6.375458226746277e-05]
+19:17:52,17 train.py INFO train_top1_acc 33.87471, train_top3_acc 66.17169, train_loss 1.88576
+19:17:52,762 train.py INFO valid_top1_acc 30.41237, valid_top3_acc 63.65979, valid_loss 1.92609
+19:17:52,762 train.py INFO Took 13.800351858139038 seconds
+19:17:52,951 train.py INFO epoch 6, lr [8.442859913098208e-05]
+19:18:05,993 train.py INFO train_top1_acc 40.88167, train_top3_acc 71.92575, train_loss 1.72044
+19:18:06,780 train.py INFO valid_top1_acc 35.82474, valid_top3_acc 64.94845, valid_loss 1.93376
+19:18:06,781 train.py INFO Took 13.829144477844238 seconds
+19:18:06,891 train.py INFO epoch 7, lr [0.00010729152372633235]
+19:18:19,845 train.py INFO train_top1_acc 45.38283, train_top3_acc 77.58701, train_loss 1.57381
+19:18:20,619 train.py INFO valid_top1_acc 40.97938, valid_top3_acc 68.04124, valid_loss 1.85212
+19:18:20,620 train.py INFO Took 13.728557109832764 seconds
+19:18:20,781 train.py INFO epoch 8, lr [0.0001316441265873946]
+19:18:33,779 train.py INFO train_top1_acc 46.31090, train_top3_acc 78.70070, train_loss 1.48617
+19:18:34,562 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 72.93814, valid_loss 1.71730
+19:18:34,563 train.py INFO Took 13.781634092330933 seconds
+19:18:34,723 train.py INFO epoch 9, lr [0.0001567416185938561]
+19:18:47,876 train.py INFO train_top1_acc 48.81671, train_top3_acc 80.27842, train_loss 1.40868
+19:18:48,642 train.py INFO valid_top1_acc 47.16495, valid_top3_acc 73.45361, valid_loss 1.68419
+19:18:48,643 train.py INFO Took 13.919784784317017 seconds
+19:18:48,799 train.py INFO epoch 10, lr [0.00018181642926874588]
+19:19:01,764 train.py INFO train_top1_acc 52.25058, train_top3_acc 83.52668, train_loss 1.32113
+19:19:02,545 train.py INFO valid_top1_acc 43.81443, valid_top3_acc 72.93814, valid_loss 1.79941
+19:19:02,545 train.py INFO Took 13.745555639266968 seconds
+19:19:02,664 train.py INFO epoch 11, lr [0.00020610168181079937]
+19:19:15,800 train.py INFO train_top1_acc 55.73086, train_top3_acc 83.71230, train_loss 1.27664
+19:19:16,572 train.py INFO valid_top1_acc 48.19588, valid_top3_acc 75.51546, valid_loss 1.68111
+19:19:16,572 train.py INFO Took 13.907647848129272 seconds
+19:19:16,722 train.py INFO epoch 12, lr [0.0002288546469117547]
+19:19:29,822 train.py INFO train_top1_acc 56.10209, train_top3_acc 85.66125, train_loss 1.20719
+19:19:30,594 train.py INFO valid_top1_acc 46.13402, valid_top3_acc 74.22680, valid_loss 1.68205
+19:19:30,594 train.py INFO Took 13.871699094772339 seconds
+19:19:30,703 train.py INFO epoch 13, lr [0.0002493794580575177]
+19:19:43,812 train.py INFO train_top1_acc 57.12297, train_top3_acc 86.31091, train_loss 1.19660
+19:19:44,578 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 75.00000, valid_loss 1.63440
+19:19:44,578 train.py INFO Took 13.875441789627075 seconds
+19:19:44,715 train.py INFO epoch 14, lr [0.0002670483935985771]
+19:19:57,938 train.py INFO train_top1_acc 60.09281, train_top3_acc 88.16705, train_loss 1.12801
+19:19:58,728 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 74.48454, valid_loss 1.66538
+19:19:58,728 train.py INFO Took 14.01306962966919 seconds
+19:19:58,875 train.py INFO epoch 15, lr [0.00028132107470834234]
+19:20:11,995 train.py INFO train_top1_acc 62.13457, train_top3_acc 90.06961, train_loss 1.05767
+19:20:12,795 train.py INFO valid_top1_acc 40.97938, valid_top3_acc 72.68041, valid_loss 1.83798
+19:20:12,796 train.py INFO Took 13.920804262161255 seconds
+19:20:12,910 train.py INFO epoch 16, lr [0.00029176099208762696]
+19:20:25,895 train.py INFO train_top1_acc 65.52204, train_top3_acc 90.48724, train_loss 0.98069
+19:20:26,681 train.py INFO valid_top1_acc 47.16495, valid_top3_acc 75.77320, valid_loss 1.91690
+19:20:26,681 train.py INFO Took 13.77056336402893 seconds
+19:20:26,781 train.py INFO epoch 17, lr [0.00029804885596993586]
+19:20:39,679 train.py INFO train_top1_acc 66.58933, train_top3_acc 90.20882, train_loss 0.97241
+19:20:40,410 train.py INFO valid_top1_acc 42.52577, valid_top3_acc 71.64948, valid_loss 2.04406
+19:20:40,410 train.py INFO Took 13.629465818405151 seconds
+19:20:40,496 train.py INFO epoch 18, lr [0.00029999854801494126]
+19:20:53,610 train.py INFO train_top1_acc 68.21346, train_top3_acc 92.34339, train_loss 0.89944
+19:20:54,400 train.py INFO valid_top1_acc 42.26804, valid_top3_acc 73.96907, valid_loss 2.05821
+19:20:54,401 train.py INFO Took 13.904841661453247 seconds
+19:20:54,490 train.py INFO epoch 19, lr [0.0002995298019398836]
+19:21:07,477 train.py INFO train_top1_acc 70.16241, train_top3_acc 93.82831, train_loss 0.84251
+19:21:08,259 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 74.74227, valid_loss 2.00565
+19:21:08,259 train.py INFO Took 13.769038915634155 seconds
+19:21:08,360 train.py INFO epoch 20, lr [0.00029822482791290564]
+19:21:21,429 train.py INFO train_top1_acc 71.13689, train_top3_acc 93.59629, train_loss 0.78789
+19:21:22,196 train.py INFO valid_top1_acc 43.04124, valid_top3_acc 74.48454, valid_loss 2.14192
+19:21:22,196 train.py INFO Took 13.835679769515991 seconds
+19:21:22,306 train.py INFO epoch 21, lr [0.00029609092387811273]
+19:21:35,369 train.py INFO train_top1_acc 71.74014, train_top3_acc 92.85383, train_loss 0.80253
+19:21:36,132 train.py INFO valid_top1_acc 45.36082, valid_top3_acc 75.00000, valid_loss 1.95609
+19:21:36,132 train.py INFO Took 13.825515031814575 seconds
+19:21:36,233 train.py INFO epoch 22, lr [0.00029314002349245923]
+19:21:49,354 train.py INFO train_top1_acc 72.94664, train_top3_acc 94.66357, train_loss 0.74726
+19:21:50,138 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 75.00000, valid_loss 2.12597
+19:21:50,138 train.py INFO Took 13.904941320419312 seconds
+19:21:50,259 train.py INFO epoch 23, lr [0.000289388629387898]
+19:22:03,375 train.py INFO train_top1_acc 76.00928, train_top3_acc 94.94200, train_loss 0.68962
+19:22:04,190 train.py INFO valid_top1_acc 46.90722, valid_top3_acc 76.28866, valid_loss 2.08295
+19:22:04,190 train.py INFO Took 13.930477380752563 seconds
+19:22:04,274 train.py INFO epoch 24, lr [0.00028485772088196844]
+19:22:17,243 train.py INFO train_top1_acc 78.56148, train_top3_acc 95.54524, train_loss 0.65068
+19:22:18,11 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 76.80412, valid_loss 2.04150
+19:22:18,12 train.py INFO Took 13.737592697143555 seconds
+19:22:18,103 train.py INFO epoch 25, lr [0.0002795726366529426]
+19:22:31,247 train.py INFO train_top1_acc 78.83991, train_top3_acc 95.59165, train_loss 0.61237
+19:22:32,74 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 76.28866, valid_loss 2.33172
+19:22:32,74 train.py INFO Took 13.970527172088623 seconds
+19:22:32,174 train.py INFO epoch 26, lr [0.0002735629330356585]
+19:22:45,55 train.py INFO train_top1_acc 78.37587, train_top3_acc 96.05568, train_loss 0.59948
+19:22:45,862 train.py INFO valid_top1_acc 42.26804, valid_top3_acc 71.64948, valid_loss 2.62579
+19:22:45,863 train.py INFO Took 13.688254356384277 seconds
+19:22:45,977 train.py INFO epoch 27, lr [0.0002668622187305058]
+19:22:59,123 train.py INFO train_top1_acc 79.25754, train_top3_acc 95.77726, train_loss 0.59077
+19:22:59,934 train.py INFO valid_top1_acc 42.26804, valid_top3_acc 71.13402, valid_loss 2.38170
+19:22:59,934 train.py INFO Took 13.955455780029297 seconds
+19:23:00,36 train.py INFO epoch 28, lr [0.00025950796684994095]
+19:23:13,215 train.py INFO train_top1_acc 82.04176, train_top3_acc 96.70534, train_loss 0.53313
+19:23:13,999 train.py INFO valid_top1_acc 46.39175, valid_top3_acc 72.68041, valid_loss 2.22921
+19:23:13,999 train.py INFO Took 13.962627649307251 seconds
+19:23:14,103 train.py INFO epoch 29, lr [0.0002515413053536414]
+19:23:27,49 train.py INFO train_top1_acc 81.94896, train_top3_acc 97.21578, train_loss 0.50838
+19:23:27,800 train.py INFO valid_top1_acc 45.10309, valid_top3_acc 75.51546, valid_loss 2.28681
+19:23:27,801 train.py INFO Took 13.697578191757202 seconds
+19:23:27,890 train.py INFO epoch 30, lr [0.0002430067870442723]
+19:23:40,878 train.py INFO train_top1_acc 81.76334, train_top3_acc 97.12297, train_loss 0.50352
+19:23:41,660 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 75.25773, valid_loss 2.32950
+19:23:41,661 train.py INFO Took 13.77051067352295 seconds
+19:23:41,766 train.py INFO epoch 31, lr [0.00023395214041014136]
+19:23:54,713 train.py INFO train_top1_acc 81.90255, train_top3_acc 96.98376, train_loss 0.48801
+19:23:55,438 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 74.48454, valid_loss 2.15670
+19:23:55,439 train.py INFO Took 13.672370910644531 seconds
+19:23:55,543 train.py INFO epoch 32, lr [0.0002244280027081322]
+19:24:08,550 train.py INFO train_top1_acc 83.38747, train_top3_acc 97.03016, train_loss 0.46603
+19:24:09,332 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 77.57732, valid_loss 2.41741
+19:24:09,332 train.py INFO Took 13.788923740386963 seconds
+19:24:09,420 train.py INFO epoch 33, lr [0.00021448763677962325]
+19:24:22,424 train.py INFO train_top1_acc 84.26914, train_top3_acc 97.58701, train_loss 0.45337
+19:24:23,188 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 76.28866, valid_loss 2.59391
+19:24:23,189 train.py INFO Took 13.768866300582886 seconds
+19:24:23,321 train.py INFO epoch 34, lr [0.00020418663318307325]
+19:24:36,294 train.py INFO train_top1_acc 84.22274, train_top3_acc 97.67981, train_loss 0.42168
+19:24:37,95 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 77.06186, valid_loss 2.26557
+19:24:37,95 train.py INFO Took 13.773686408996582 seconds
+19:24:37,200 train.py INFO epoch 35, lr [0.00019358259930906887]
+19:24:50,269 train.py INFO train_top1_acc 84.68678, train_top3_acc 97.03016, train_loss 0.42679
+19:24:51,56 train.py INFO valid_top1_acc 48.45361, valid_top3_acc 77.83505, valid_loss 2.36830
+19:24:51,56 train.py INFO Took 13.855957746505737 seconds
+19:24:51,149 train.py INFO epoch 36, lr [0.00018273483721642882]
+19:25:04,92 train.py INFO train_top1_acc 84.50116, train_top3_acc 97.49420, train_loss 0.41479
+19:25:04,859 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 76.03093, valid_loss 2.42637
+19:25:04,859 train.py INFO Took 13.70960521697998 seconds
+19:25:04,958 train.py INFO epoch 37, lr [0.00017170401199103586]
+19:25:18,109 train.py INFO train_top1_acc 86.45012, train_top3_acc 97.77262, train_loss 0.38148
+19:25:18,846 train.py INFO valid_top1_acc 45.10309, valid_top3_acc 74.74227, valid_loss 2.56964
+19:25:18,846 train.py INFO Took 13.887868165969849 seconds
+19:25:18,935 train.py INFO epoch 38, lr [0.00016055181248206816]
+19:25:31,824 train.py INFO train_top1_acc 85.42923, train_top3_acc 97.91183, train_loss 0.39567
+19:25:32,577 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 76.28866, valid_loss 2.54079
+19:25:32,577 train.py INFO Took 13.642221450805664 seconds
+19:25:32,682 train.py INFO epoch 39, lr [0.0001493406063129318]
+19:25:45,674 train.py INFO train_top1_acc 87.47100, train_top3_acc 98.28306, train_loss 0.34465
+19:25:46,430 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 74.74227, valid_loss 2.60379
+19:25:46,430 train.py INFO Took 13.747324466705322 seconds
+19:25:46,524 train.py INFO epoch 40, lr [0.0001381330910962118]
+19:25:59,522 train.py INFO train_top1_acc 87.23898, train_top3_acc 98.28306, train_loss 0.33819
+19:26:00,320 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 76.54639, valid_loss 2.59623
+19:26:00,320 train.py INFO Took 13.795325517654419 seconds
+19:26:00,420 train.py INFO epoch 41, lr [0.0001269919438031901]
+19:26:13,591 train.py INFO train_top1_acc 86.58933, train_top3_acc 98.28306, train_loss 0.37069
+19:26:14,388 train.py INFO valid_top1_acc 47.93814, valid_top3_acc 76.28866, valid_loss 2.60288
+19:26:14,389 train.py INFO Took 13.968390226364136 seconds
+19:26:14,514 train.py INFO epoch 42, lr [0.00011597947024879801]
+19:26:27,567 train.py INFO train_top1_acc 86.86775, train_top3_acc 98.56148, train_loss 0.34756
+19:26:28,347 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 76.54639, valid_loss 2.57846
+19:26:28,347 train.py INFO Took 13.832784175872803 seconds
+19:26:28,470 train.py INFO epoch 43, lr [0.00010515725665222535]
+19:26:41,578 train.py INFO train_top1_acc 88.39907, train_top3_acc 98.51508, train_loss 0.31916
+19:26:42,326 train.py INFO valid_top1_acc 43.55670, valid_top3_acc 75.77320, valid_loss 2.49248
+19:26:42,327 train.py INFO Took 13.85651683807373 seconds
+19:26:42,456 train.py INFO epoch 44, lr [9.45858252218014e-05]
+19:26:55,401 train.py INFO train_top1_acc 87.19258, train_top3_acc 98.60789, train_loss 0.34045
+19:26:56,175 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 75.51546, valid_loss 2.55799
+19:26:56,176 train.py INFO Took 13.719339370727539 seconds
+19:26:56,287 train.py INFO epoch 45, lr [8.432429569025555e-05]
+19:27:09,254 train.py INFO train_top1_acc 87.61021, train_top3_acc 98.28306, train_loss 0.33429
+19:27:10,72 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 75.77320, valid_loss 2.47411
+19:27:10,72 train.py INFO Took 13.784768104553223 seconds
+19:27:10,159 train.py INFO epoch 46, lr [7.443005469319098e-05]
+19:27:23,264 train.py INFO train_top1_acc 89.18794, train_top3_acc 98.19026, train_loss 0.30802
+19:27:24,1 train.py INFO valid_top1_acc 48.19588, valid_top3_acc 77.06186, valid_loss 2.57321
+19:27:24,2 train.py INFO Took 13.842681169509888 seconds
+19:27:24,106 train.py INFO epoch 47, lr [6.49584348397396e-05]
+19:27:37,50 train.py INFO train_top1_acc 88.25986, train_top3_acc 98.32947, train_loss 0.31169
+19:27:37,818 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 76.80412, valid_loss 2.69697
+19:27:37,818 train.py INFO Took 13.711456298828125 seconds
+19:27:37,910 train.py INFO epoch 48, lr [5.59624052701676e-05]
+19:27:50,842 train.py INFO train_top1_acc 88.39907, train_top3_acc 98.32947, train_loss 0.30838
+19:27:51,647 train.py INFO valid_top1_acc 48.45361, valid_top3_acc 76.80412, valid_loss 2.72331
+19:27:51,647 train.py INFO Took 13.736929416656494 seconds
+19:27:51,738 train.py INFO epoch 49, lr [4.749227543095612e-05]
+19:28:04,820 train.py INFO train_top1_acc 88.35267, train_top3_acc 98.19026, train_loss 0.31056
+19:28:05,598 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 76.28866, valid_loss 2.66410
+19:28:05,598 train.py INFO Took 13.860654592514038 seconds
+19:28:05,724 train.py INFO epoch 50, lr [3.95954137239696e-05]
+19:28:18,787 train.py INFO train_top1_acc 88.02784, train_top3_acc 98.19026, train_loss 0.32344
+19:28:19,559 train.py INFO valid_top1_acc 51.03093, valid_top3_acc 77.06186, valid_loss 2.59510
+19:28:19,559 train.py INFO Took 13.834938526153564 seconds
+19:28:19,663 train.py INFO epoch 51, lr [3.231598260313783e-05]
+19:28:32,621 train.py INFO train_top1_acc 87.88863, train_top3_acc 98.09745, train_loss 0.32413
+19:28:33,383 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 76.80412, valid_loss 2.58319
+19:28:33,383 train.py INFO Took 13.71935224533081 seconds
+19:28:33,492 train.py INFO epoch 52, lr [2.5694691600099707e-05]
+19:28:46,627 train.py INFO train_top1_acc 88.77030, train_top3_acc 98.09745, train_loss 0.29361
+19:28:47,416 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 77.06186, valid_loss 2.56681
+19:28:47,416 train.py INFO Took 13.924132585525513 seconds
+19:28:47,511 train.py INFO epoch 53, lr [1.9768569659989127e-05]
+19:29:00,519 train.py INFO train_top1_acc 88.39907, train_top3_acc 98.32947, train_loss 0.30020
+19:29:01,282 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 77.06186, valid_loss 2.56561
+19:29:01,282 train.py INFO Took 13.770590543746948 seconds
+19:29:01,380 train.py INFO epoch 54, lr [1.4570758060553302e-05]
+19:29:14,347 train.py INFO train_top1_acc 89.09513, train_top3_acc 98.74710, train_loss 0.29657
+19:29:15,95 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 76.80412, valid_loss 2.57366
+19:29:15,95 train.py INFO Took 13.714609384536743 seconds
+19:29:15,205 train.py INFO epoch 55, lr [1.0130325072684287e-05]
+19:29:28,142 train.py INFO train_top1_acc 89.18794, train_top3_acc 98.83991, train_loss 0.26989
+19:29:28,893 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 77.06186, valid_loss 2.58399
+19:29:28,893 train.py INFO Took 13.68817925453186 seconds
+19:29:28,991 train.py INFO epoch 56, lr [6.472103398856998e-06]
+19:29:41,926 train.py INFO train_top1_acc 88.16705, train_top3_acc 98.19026, train_loss 0.29980
+19:29:42,706 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 77.06186, valid_loss 2.59783
+19:29:42,707 train.py INFO Took 13.715211153030396 seconds
+19:29:42,818 train.py INFO epoch 57, lr [3.616551298583878e-06]
+19:29:55,863 train.py INFO train_top1_acc 89.18794, train_top3_acc 98.60789, train_loss 0.29100
+19:29:56,631 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 77.06186, valid_loss 2.61331
+19:29:56,632 train.py INFO Took 13.813328742980957 seconds
+19:29:56,720 train.py INFO epoch 58, lr [1.5796381775291086e-06]
+19:30:09,952 train.py INFO train_top1_acc 89.32715, train_top3_acc 98.14385, train_loss 0.28797
+19:30:10,834 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 77.06186, valid_loss 2.61970
+19:30:10,834 train.py INFO Took 14.11378812789917 seconds
+19:30:10,979 train.py INFO epoch 59, lr [3.727552801142313e-07]
+19:30:23,979 train.py INFO train_top1_acc 88.63109, train_top3_acc 98.28306, train_loss 0.29751
+19:30:24,762 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 77.06186, valid_loss 2.62527
+19:30:24,762 train.py INFO Took 13.782183647155762 seconds
+19:30:24,937 train.py INFO Running test set inference...
+19:30:29,154 train.py INFO test_top1_acc 55.76091, test_top3_acc 85.48958
+19:35:52,772 train.py INFO epoch 0, lr [1.200000000000002e-05]
+19:36:06,40 train.py INFO train_top1_acc 11.09049, train_top3_acc 31.92575, train_loss 2.39430
+19:36:06,846 train.py INFO valid_top1_acc 10.82474, valid_top3_acc 30.15464, valid_loss 2.39672
+19:36:06,847 train.py INFO Took 14.073929786682129 seconds
+19:36:06,946 train.py INFO epoch 1, lr [1.4202015816069588e-05]
+19:36:20,28 train.py INFO train_top1_acc 16.70534, train_top3_acc 42.27378, train_loss 2.38181
+19:36:20,752 train.py INFO valid_top1_acc 16.23711, valid_top3_acc 41.49485, valid_loss 2.38842
+19:36:20,753 train.py INFO Took 13.806065082550049 seconds
+19:36:20,857 train.py INFO epoch 2, lr [2.074071779685846e-05]
+19:36:33,798 train.py INFO train_top1_acc 22.22738, train_top3_acc 44.36195, train_loss 2.36511
+19:36:34,558 train.py INFO valid_top1_acc 20.10309, valid_top3_acc 50.25773, valid_loss 2.37199
+19:36:34,558 train.py INFO Took 13.701300382614136 seconds
+19:36:34,622 train.py INFO epoch 3, lr [3.141612920377977e-05]
+19:36:47,389 train.py INFO train_top1_acc 22.18097, train_top3_acc 46.77494, train_loss 2.33756
+19:36:48,124 train.py INFO valid_top1_acc 23.96907, valid_top3_acc 56.95876, valid_loss 2.33768
+19:36:48,124 train.py INFO Took 13.5017728805542 seconds
+19:36:48,190 train.py INFO epoch 4, lr [4.590175802626279e-05]
+19:37:01,217 train.py INFO train_top1_acc 25.29002, train_top3_acc 50.11601, train_loss 2.28360
+19:37:01,966 train.py INFO valid_top1_acc 28.86598, valid_top3_acc 59.79381, valid_loss 2.25407
+19:37:01,966 train.py INFO Took 13.775704622268677 seconds
+19:37:02,34 train.py INFO epoch 5, lr [6.375458226746277e-05]
+19:37:15,96 train.py INFO train_top1_acc 28.07425, train_top3_acc 55.73086, train_loss 2.16940
+19:37:15,835 train.py INFO valid_top1_acc 30.92784, valid_top3_acc 61.34021, valid_loss 2.07763
+19:37:15,836 train.py INFO Took 13.801849842071533 seconds
+19:37:15,899 train.py INFO epoch 6, lr [8.442859913098208e-05]
+19:37:28,785 train.py INFO train_top1_acc 31.83295, train_top3_acc 62.55220, train_loss 2.00462
+19:37:29,549 train.py INFO valid_top1_acc 34.02062, valid_top3_acc 62.37113, valid_loss 1.87488
+19:37:29,549 train.py INFO Took 13.64969515800476 seconds
+19:37:29,612 train.py INFO epoch 7, lr [0.00010729152372633235]
+19:37:42,681 train.py INFO train_top1_acc 36.98376, train_top3_acc 68.90951, train_loss 1.83474
+19:37:43,448 train.py INFO valid_top1_acc 36.08247, valid_top3_acc 61.59794, valid_loss 1.86658
+19:37:43,448 train.py INFO Took 13.836260557174683 seconds
+19:37:43,513 train.py INFO epoch 8, lr [0.0001316441265873946]
+19:37:56,391 train.py INFO train_top1_acc 40.64965, train_top3_acc 72.99304, train_loss 1.72581
+19:37:57,156 train.py INFO valid_top1_acc 38.65979, valid_top3_acc 65.97938, valid_loss 1.82544
+19:37:57,157 train.py INFO Took 13.643291711807251 seconds
+19:37:57,221 train.py INFO epoch 9, lr [0.0001567416185938561]
+19:38:10,233 train.py INFO train_top1_acc 44.64037, train_top3_acc 76.10209, train_loss 1.60016
+19:38:11,25 train.py INFO valid_top1_acc 41.49485, valid_top3_acc 70.10309, valid_loss 1.76365
+19:38:11,26 train.py INFO Took 13.804630756378174 seconds
+19:38:11,112 train.py INFO epoch 10, lr [0.00018181642926874588]
+19:38:24,99 train.py INFO train_top1_acc 46.40371, train_top3_acc 76.89095, train_loss 1.52882
+19:38:24,867 train.py INFO valid_top1_acc 40.72165, valid_top3_acc 72.68041, valid_loss 1.78659
+19:38:24,868 train.py INFO Took 13.75575041770935 seconds
+19:38:24,917 train.py INFO epoch 11, lr [0.00020610168181079937]
+19:38:37,964 train.py INFO train_top1_acc 48.72390, train_top3_acc 78.70070, train_loss 1.46899
+19:38:38,784 train.py INFO valid_top1_acc 44.58763, valid_top3_acc 75.77320, valid_loss 1.67634
+19:38:38,784 train.py INFO Took 13.866984128952026 seconds
+19:38:38,850 train.py INFO epoch 12, lr [0.0002288546469117547]
+19:38:51,822 train.py INFO train_top1_acc 49.93039, train_top3_acc 80.23202, train_loss 1.42621
+19:38:52,623 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 74.48454, valid_loss 1.64245
+19:38:52,624 train.py INFO Took 13.773857593536377 seconds
+19:38:52,692 train.py INFO epoch 13, lr [0.0002493794580575177]
+19:39:05,669 train.py INFO train_top1_acc 51.97216, train_top3_acc 81.76334, train_loss 1.38648
+19:39:06,395 train.py INFO valid_top1_acc 44.07216, valid_top3_acc 73.71134, valid_loss 1.68669
+19:39:06,395 train.py INFO Took 13.702810287475586 seconds
+19:39:06,444 train.py INFO epoch 14, lr [0.0002670483935985771]
+19:39:19,457 train.py INFO train_top1_acc 53.27146, train_top3_acc 84.50116, train_loss 1.32021
+19:39:20,262 train.py INFO valid_top1_acc 41.75258, valid_top3_acc 73.19588, valid_loss 1.76672
+19:39:20,262 train.py INFO Took 13.817448616027832 seconds
+19:39:20,313 train.py INFO epoch 15, lr [0.00028132107470834234]
+19:39:33,286 train.py INFO train_top1_acc 53.78190, train_top3_acc 84.22274, train_loss 1.29698
+19:39:34,72 train.py INFO valid_top1_acc 41.49485, valid_top3_acc 73.19588, valid_loss 1.79987
+19:39:34,73 train.py INFO Took 13.759644031524658 seconds
+19:39:34,121 train.py INFO epoch 16, lr [0.00029176099208762696]
+19:39:46,972 train.py INFO train_top1_acc 56.56613, train_top3_acc 84.87239, train_loss 1.24213
+19:39:47,753 train.py INFO valid_top1_acc 38.14433, valid_top3_acc 65.72165, valid_loss 1.97604
+19:39:47,753 train.py INFO Took 13.632175922393799 seconds
+19:39:47,820 train.py INFO epoch 17, lr [0.00029804885596993586]
+19:40:00,833 train.py INFO train_top1_acc 55.91647, train_top3_acc 85.38283, train_loss 1.22811
+19:40:01,580 train.py INFO valid_top1_acc 39.69072, valid_top3_acc 70.36082, valid_loss 1.77858
+19:40:01,581 train.py INFO Took 13.760463237762451 seconds
+19:40:01,630 train.py INFO epoch 18, lr [0.00029999854801494126]
+19:40:14,518 train.py INFO train_top1_acc 56.93735, train_top3_acc 86.17169, train_loss 1.19439
+19:40:15,331 train.py INFO valid_top1_acc 43.55670, valid_top3_acc 73.45361, valid_loss 1.77742
+19:40:15,331 train.py INFO Took 13.700740814208984 seconds
+19:40:15,451 train.py INFO epoch 19, lr [0.0002995298019398836]
+19:40:28,353 train.py INFO train_top1_acc 59.95360, train_top3_acc 86.91415, train_loss 1.13213
+19:40:29,102 train.py INFO valid_top1_acc 43.55670, valid_top3_acc 68.81443, valid_loss 1.87593
+19:40:29,103 train.py INFO Took 13.651061058044434 seconds
+19:40:29,150 train.py INFO epoch 20, lr [0.00029822482791290564]
+19:40:42,48 train.py INFO train_top1_acc 61.80974, train_top3_acc 87.98144, train_loss 1.10284
+19:40:42,850 train.py INFO valid_top1_acc 43.55670, valid_top3_acc 72.93814, valid_loss 1.82400
+19:40:42,850 train.py INFO Took 13.70032024383545 seconds
+19:40:42,898 train.py INFO epoch 21, lr [0.00029609092387811273]
+19:40:55,960 train.py INFO train_top1_acc 62.69142, train_top3_acc 89.09513, train_loss 1.05821
+19:40:56,697 train.py INFO valid_top1_acc 41.23711, valid_top3_acc 72.16495, valid_loss 2.01055
+19:40:56,697 train.py INFO Took 13.798836708068848 seconds
+19:40:56,746 train.py INFO epoch 22, lr [0.00029314002349245923]
+19:41:09,627 train.py INFO train_top1_acc 63.24826, train_top3_acc 89.41995, train_loss 1.04772
+19:41:10,401 train.py INFO valid_top1_acc 37.11340, valid_top3_acc 65.20619, valid_loss 2.41067
+19:41:10,401 train.py INFO Took 13.654855251312256 seconds
+19:41:10,451 train.py INFO epoch 23, lr [0.000289388629387898]
+19:41:23,458 train.py INFO train_top1_acc 63.85151, train_top3_acc 89.83759, train_loss 0.99545
+19:41:24,208 train.py INFO valid_top1_acc 40.46392, valid_top3_acc 69.32990, valid_loss 2.09618
+19:41:24,208 train.py INFO Took 13.756301403045654 seconds
+19:41:24,256 train.py INFO epoch 24, lr [0.00028485772088196844]
+19:41:37,202 train.py INFO train_top1_acc 65.10441, train_top3_acc 90.58005, train_loss 0.97711
+19:41:38,3 train.py INFO valid_top1_acc 42.26804, valid_top3_acc 72.42268, valid_loss 1.94111
+19:41:38,3 train.py INFO Took 13.746920108795166 seconds
+19:41:38,54 train.py INFO epoch 25, lr [0.0002795726366529426]
+19:41:51,107 train.py INFO train_top1_acc 66.72854, train_top3_acc 90.53364, train_loss 0.92636
+19:41:51,937 train.py INFO valid_top1_acc 44.84536, valid_top3_acc 73.71134, valid_loss 1.95631
+19:41:51,937 train.py INFO Took 13.882879734039307 seconds
+19:41:52,2 train.py INFO epoch 26, lr [0.0002735629330356585]
+19:42:04,958 train.py INFO train_top1_acc 68.39907, train_top3_acc 92.76102, train_loss 0.89375
+19:42:05,739 train.py INFO valid_top1_acc 46.64948, valid_top3_acc 75.00000, valid_loss 1.87550
+19:42:05,740 train.py INFO Took 13.737544775009155 seconds
+19:42:05,808 train.py INFO epoch 27, lr [0.0002668622187305058]
+19:42:19,1 train.py INFO train_top1_acc 67.84223, train_top3_acc 91.74014, train_loss 0.90723
+19:42:19,750 train.py INFO valid_top1_acc 45.36082, valid_top3_acc 75.77320, valid_loss 1.90822
+19:42:19,750 train.py INFO Took 13.942180395126343 seconds
+19:42:19,820 train.py INFO epoch 28, lr [0.00025950796684994095]
+19:42:32,710 train.py INFO train_top1_acc 69.09513, train_top3_acc 92.52900, train_loss 0.85315
+19:42:33,475 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 76.80412, valid_loss 1.86395
+19:42:33,476 train.py INFO Took 13.655254125595093 seconds
+19:42:33,526 train.py INFO epoch 29, lr [0.0002515413053536414]
+19:42:46,438 train.py INFO train_top1_acc 70.02320, train_top3_acc 92.34339, train_loss 0.85325
+19:42:47,237 train.py INFO valid_top1_acc 47.16495, valid_top3_acc 75.25773, valid_loss 1.93789
+19:42:47,238 train.py INFO Took 13.711634397506714 seconds
+19:42:47,294 train.py INFO epoch 30, lr [0.0002430067870442723]
+19:43:00,384 train.py INFO train_top1_acc 71.41531, train_top3_acc 92.90023, train_loss 0.80467
+19:43:01,207 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 77.31959, valid_loss 1.93901
+19:43:01,207 train.py INFO Took 13.913210391998291 seconds
+19:43:01,274 train.py INFO epoch 31, lr [0.00023395214041014136]
+19:43:14,322 train.py INFO train_top1_acc 72.90023, train_top3_acc 93.41067, train_loss 0.77460
+19:43:15,104 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 76.28866, valid_loss 1.86748
+19:43:15,105 train.py INFO Took 13.830255270004272 seconds
+19:43:15,153 train.py INFO epoch 32, lr [0.0002244280027081322]
+19:43:28,265 train.py INFO train_top1_acc 73.41067, train_top3_acc 93.82831, train_loss 0.74355
+19:43:29,76 train.py INFO valid_top1_acc 47.16495, valid_top3_acc 73.45361, valid_loss 2.05310
+19:43:29,76 train.py INFO Took 13.922668218612671 seconds
+19:43:29,127 train.py INFO epoch 33, lr [0.00021448763677962325]
+19:43:42,186 train.py INFO train_top1_acc 72.57541, train_top3_acc 93.68910, train_loss 0.75031
+19:43:42,972 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 77.31959, valid_loss 2.11031
+19:43:42,972 train.py INFO Took 13.84463882446289 seconds
+19:43:43,20 train.py INFO epoch 34, lr [0.00020418663318307325]
+19:43:56,18 train.py INFO train_top1_acc 73.27146, train_top3_acc 93.92111, train_loss 0.75094
+19:43:56,782 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 76.80412, valid_loss 2.11217
+19:43:56,783 train.py INFO Took 13.76231598854065 seconds
+19:43:56,830 train.py INFO epoch 35, lr [0.00019358259930906887]
+19:44:09,701 train.py INFO train_top1_acc 74.70998, train_top3_acc 94.06032, train_loss 0.71691
+19:44:10,474 train.py INFO valid_top1_acc 47.93814, valid_top3_acc 73.71134, valid_loss 2.27936
+19:44:10,474 train.py INFO Took 13.644023180007935 seconds
+19:44:10,522 train.py INFO epoch 36, lr [0.00018273483721642882]
+19:44:23,451 train.py INFO train_top1_acc 74.75638, train_top3_acc 94.43155, train_loss 0.70885
+19:44:24,212 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 75.77320, valid_loss 2.14214
+19:44:24,212 train.py INFO Took 13.690337896347046 seconds
+19:44:24,262 train.py INFO epoch 37, lr [0.00017170401199103586]
+19:44:37,261 train.py INFO train_top1_acc 76.00928, train_top3_acc 94.75638, train_loss 0.66314
+19:44:38,12 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 76.28866, valid_loss 2.14015
+19:44:38,12 train.py INFO Took 13.749835968017578 seconds
+19:44:38,64 train.py INFO epoch 38, lr [0.00016055181248206816]
+19:44:50,954 train.py INFO train_top1_acc 76.10209, train_top3_acc 94.57077, train_loss 0.66068
+19:44:51,769 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 74.22680, valid_loss 2.13396
+19:44:51,769 train.py INFO Took 13.705416202545166 seconds
+19:44:51,817 train.py INFO epoch 39, lr [0.0001493406063129318]
+19:45:04,769 train.py INFO train_top1_acc 77.86543, train_top3_acc 94.94200, train_loss 0.63297
+19:45:05,565 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 74.74227, valid_loss 2.12618
+19:45:05,566 train.py INFO Took 13.748872756958008 seconds
+19:45:05,643 train.py INFO epoch 40, lr [0.0001381330910962118]
+19:45:18,721 train.py INFO train_top1_acc 77.63341, train_top3_acc 95.68445, train_loss 0.61176
+19:45:19,519 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 74.48454, valid_loss 2.23174
+19:45:19,520 train.py INFO Took 13.87641954421997 seconds
+19:45:19,568 train.py INFO epoch 41, lr [0.0001269919438031901]
+19:45:32,490 train.py INFO train_top1_acc 79.35035, train_top3_acc 96.38051, train_loss 0.58827
+19:45:33,262 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 72.68041, valid_loss 2.43763
+19:45:33,263 train.py INFO Took 13.693915843963623 seconds
+19:45:33,330 train.py INFO epoch 42, lr [0.00011597947024879801]
+19:45:46,339 train.py INFO train_top1_acc 78.56148, train_top3_acc 95.45244, train_loss 0.60513
+19:45:47,140 train.py INFO valid_top1_acc 47.93814, valid_top3_acc 73.71134, valid_loss 2.48750
+19:45:47,140 train.py INFO Took 13.810299158096313 seconds
+19:45:47,208 train.py INFO epoch 43, lr [0.00010515725665222535]
+19:46:00,113 train.py INFO train_top1_acc 79.21114, train_top3_acc 95.54524, train_loss 0.60434
+19:46:00,873 train.py INFO valid_top1_acc 51.54639, valid_top3_acc 74.74227, valid_loss 2.26194
+19:46:00,873 train.py INFO Took 13.664873361587524 seconds
+19:46:00,922 train.py INFO epoch 44, lr [9.45858252218014e-05]
+19:46:13,850 train.py INFO train_top1_acc 78.51508, train_top3_acc 95.68445, train_loss 0.58962
+19:46:14,642 train.py INFO valid_top1_acc 49.22680, valid_top3_acc 76.03093, valid_loss 2.21841
+19:46:14,642 train.py INFO Took 13.719491004943848 seconds
+19:46:14,710 train.py INFO epoch 45, lr [8.432429569025555e-05]
+19:46:27,782 train.py INFO train_top1_acc 79.21114, train_top3_acc 96.05568, train_loss 0.58299
+19:46:28,560 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 76.03093, valid_loss 2.27641
+19:46:28,560 train.py INFO Took 13.849436521530151 seconds
+19:46:28,608 train.py INFO epoch 46, lr [7.443005469319098e-05]
+19:46:41,610 train.py INFO train_top1_acc 81.20650, train_top3_acc 96.38051, train_loss 0.54989
+19:46:42,381 train.py INFO valid_top1_acc 50.25773, valid_top3_acc 75.51546, valid_loss 2.25510
+19:46:42,381 train.py INFO Took 13.772518634796143 seconds
+19:46:42,448 train.py INFO epoch 47, lr [6.49584348397396e-05]
+19:46:55,491 train.py INFO train_top1_acc 80.83527, train_top3_acc 96.05568, train_loss 0.53985
+19:46:56,272 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 74.22680, valid_loss 2.26203
+19:46:56,273 train.py INFO Took 13.824620008468628 seconds
+19:46:56,325 train.py INFO epoch 48, lr [5.59624052701676e-05]
+19:47:09,638 train.py INFO train_top1_acc 80.74246, train_top3_acc 96.70534, train_loss 0.53988
+19:47:10,395 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 75.25773, valid_loss 2.29071
+19:47:10,396 train.py INFO Took 14.070821762084961 seconds
+19:47:10,446 train.py INFO epoch 49, lr [4.749227543095612e-05]
+19:47:23,516 train.py INFO train_top1_acc 81.99536, train_top3_acc 96.42691, train_loss 0.49491
+19:47:24,281 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 75.51546, valid_loss 2.25928
+19:47:24,282 train.py INFO Took 13.835212230682373 seconds
+19:47:24,349 train.py INFO epoch 50, lr [3.95954137239696e-05]
+19:47:37,307 train.py INFO train_top1_acc 81.34571, train_top3_acc 96.28770, train_loss 0.53507
+19:47:38,108 train.py INFO valid_top1_acc 51.03093, valid_top3_acc 76.28866, valid_loss 2.25077
+19:47:38,109 train.py INFO Took 13.759467124938965 seconds
+19:47:38,157 train.py INFO epoch 51, lr [3.231598260313783e-05]
+19:47:51,262 train.py INFO train_top1_acc 80.41763, train_top3_acc 96.93736, train_loss 0.53416
+19:47:52,65 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 76.03093, valid_loss 2.27445
+19:47:52,65 train.py INFO Took 13.90796422958374 seconds
+19:47:52,129 train.py INFO epoch 52, lr [2.5694691600099707e-05]
+19:48:05,209 train.py INFO train_top1_acc 80.04640, train_top3_acc 96.28770, train_loss 0.55948
+19:48:05,928 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 75.77320, valid_loss 2.27057
+19:48:05,929 train.py INFO Took 13.799046039581299 seconds
+19:48:05,977 train.py INFO epoch 53, lr [1.9768569659989127e-05]
+19:48:18,878 train.py INFO train_top1_acc 81.53132, train_top3_acc 96.14849, train_loss 0.55442
+19:48:19,645 train.py INFO valid_top1_acc 51.03093, valid_top3_acc 74.74227, valid_loss 2.28460
+19:48:19,645 train.py INFO Took 13.66778564453125 seconds
+19:48:19,743 train.py INFO epoch 54, lr [1.4570758060553302e-05]
+19:48:32,691 train.py INFO train_top1_acc 81.53132, train_top3_acc 96.47332, train_loss 0.51868
+19:48:33,506 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 75.00000, valid_loss 2.30253
+19:48:33,506 train.py INFO Took 13.762544870376587 seconds
+19:48:33,554 train.py INFO epoch 55, lr [1.0130325072684287e-05]
+19:48:46,668 train.py INFO train_top1_acc 80.69606, train_top3_acc 96.00928, train_loss 0.52614
+19:48:47,408 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 75.00000, valid_loss 2.30145
+19:48:47,409 train.py INFO Took 13.854700803756714 seconds
+19:48:47,458 train.py INFO epoch 56, lr [6.472103398856998e-06]
+19:49:00,417 train.py INFO train_top1_acc 80.41763, train_top3_acc 96.51972, train_loss 0.55117
+19:49:01,204 train.py INFO valid_top1_acc 50.51546, valid_top3_acc 75.00000, valid_loss 2.30086
+19:49:01,204 train.py INFO Took 13.745144844055176 seconds
+19:49:01,254 train.py INFO epoch 57, lr [3.616551298583878e-06]
+19:49:14,205 train.py INFO train_top1_acc 81.20650, train_top3_acc 96.38051, train_loss 0.54047
+19:49:14,954 train.py INFO valid_top1_acc 51.03093, valid_top3_acc 75.00000, valid_loss 2.30104
+19:49:14,955 train.py INFO Took 13.699828147888184 seconds
+19:49:15,2 train.py INFO epoch 58, lr [1.5796381775291086e-06]
+19:49:28,53 train.py INFO train_top1_acc 80.74246, train_top3_acc 96.93736, train_loss 0.52677
+19:49:28,860 train.py INFO valid_top1_acc 50.77320, valid_top3_acc 74.74227, valid_loss 2.29875
+19:49:28,861 train.py INFO Took 13.857903480529785 seconds
+19:49:28,909 train.py INFO epoch 59, lr [3.727552801142313e-07]
+19:49:41,990 train.py INFO train_top1_acc 81.43851, train_top3_acc 96.14849, train_loss 0.53112
+19:49:42,831 train.py INFO valid_top1_acc 51.03093, valid_top3_acc 74.74227, valid_loss 2.30034
+19:49:42,832 train.py INFO Took 13.922119379043579 seconds
+19:49:42,954 train.py INFO Running test set inference...
+19:49:47,225 train.py INFO test_top1_acc 49.11522, test_top3_acc 80.53480
+19:55:49,210 train.py INFO epoch 0, lr [1.200000000000002e-05]
+19:56:02,486 train.py INFO train_top1_acc 10.71926, train_top3_acc 34.29234, train_loss 2.39214
+19:56:03,337 train.py INFO valid_top1_acc 16.49485, valid_top3_acc 38.91753, valid_loss 2.39338
+19:56:03,337 train.py INFO Took 14.127098321914673 seconds
+19:56:03,404 train.py INFO epoch 1, lr [1.4202015816069588e-05]
+19:56:16,321 train.py INFO train_top1_acc 17.95824, train_top3_acc 42.45940, train_loss 2.38009
+19:56:17,85 train.py INFO valid_top1_acc 22.42268, valid_top3_acc 43.55670, valid_loss 2.38488
+19:56:17,85 train.py INFO Took 13.680461406707764 seconds
+19:56:17,146 train.py INFO epoch 2, lr [2.074071779685846e-05]
+19:56:30,34 train.py INFO train_top1_acc 21.06729, train_top3_acc 45.61485, train_loss 2.36275
+19:56:30,819 train.py INFO valid_top1_acc 22.93814, valid_top3_acc 49.22680, valid_loss 2.36781
+19:56:30,819 train.py INFO Took 13.673630475997925 seconds
+19:56:30,904 train.py INFO epoch 3, lr [3.141612920377977e-05]
+19:56:43,930 train.py INFO train_top1_acc 23.29466, train_top3_acc 48.02784, train_loss 2.33391
+19:56:44,702 train.py INFO valid_top1_acc 27.06186, valid_top3_acc 57.73196, valid_loss 2.33309
+19:56:44,702 train.py INFO Took 13.79799747467041 seconds
+19:56:44,782 train.py INFO epoch 4, lr [4.590175802626279e-05]
+19:56:57,707 train.py INFO train_top1_acc 25.98608, train_top3_acc 50.58005, train_loss 2.28272
+19:56:58,479 train.py INFO valid_top1_acc 28.86598, valid_top3_acc 57.98969, valid_loss 2.25384
+19:56:58,479 train.py INFO Took 13.696637868881226 seconds
+19:56:58,543 train.py INFO epoch 5, lr [6.375458226746277e-05]
+19:57:11,435 train.py INFO train_top1_acc 28.35267, train_top3_acc 57.58701, train_loss 2.16475
+19:57:12,245 train.py INFO valid_top1_acc 30.67010, valid_top3_acc 59.53608, valid_loss 2.08069
+19:57:12,245 train.py INFO Took 13.701890468597412 seconds
+19:57:12,307 train.py INFO epoch 6, lr [8.442859913098208e-05]
+19:57:25,306 train.py INFO train_top1_acc 32.20418, train_top3_acc 64.08353, train_loss 1.98912
+19:57:26,95 train.py INFO valid_top1_acc 35.05155, valid_top3_acc 60.56701, valid_loss 1.89448
+19:57:26,96 train.py INFO Took 13.788038492202759 seconds
+19:57:26,162 train.py INFO epoch 7, lr [0.00010729152372633235]
+19:57:39,89 train.py INFO train_top1_acc 36.00928, train_top3_acc 68.02784, train_loss 1.84307
+19:57:39,840 train.py INFO valid_top1_acc 36.34021, valid_top3_acc 64.69072, valid_loss 1.85709
+19:57:39,840 train.py INFO Took 13.67726755142212 seconds
+19:57:39,921 train.py INFO epoch 8, lr [0.0001316441265873946]
+19:57:52,997 train.py INFO train_top1_acc 40.41763, train_top3_acc 71.41531, train_loss 1.73846
+19:57:53,751 train.py INFO valid_top1_acc 41.23711, valid_top3_acc 70.61856, valid_loss 1.75980
+19:57:53,752 train.py INFO Took 13.830446004867554 seconds
+19:57:53,814 train.py INFO epoch 9, lr [0.0001567416185938561]
+19:58:06,841 train.py INFO train_top1_acc 43.75870, train_top3_acc 75.87007, train_loss 1.60790
+19:58:07,626 train.py INFO valid_top1_acc 41.23711, valid_top3_acc 71.13402, valid_loss 1.74410
+19:58:07,627 train.py INFO Took 13.81265139579773 seconds
+19:58:07,672 train.py INFO epoch 10, lr [0.00018181642926874588]
+19:58:20,600 train.py INFO train_top1_acc 45.66125, train_top3_acc 77.03016, train_loss 1.54461
+19:58:21,358 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 73.71134, valid_loss 1.65122
+19:58:21,359 train.py INFO Took 13.686717987060547 seconds
+19:58:21,421 train.py INFO epoch 11, lr [0.00020610168181079937]
+19:58:34,348 train.py INFO train_top1_acc 47.98144, train_top3_acc 79.02552, train_loss 1.48681
+19:58:35,118 train.py INFO valid_top1_acc 42.78351, valid_top3_acc 74.22680, valid_loss 1.63641
+19:58:35,119 train.py INFO Took 13.697891473770142 seconds
+19:58:35,164 train.py INFO epoch 12, lr [0.0002288546469117547]
+19:58:48,114 train.py INFO train_top1_acc 49.97680, train_top3_acc 81.29930, train_loss 1.41805
+19:58:48,917 train.py INFO valid_top1_acc 44.07216, valid_top3_acc 68.81443, valid_loss 1.78311
+19:58:48,918 train.py INFO Took 13.75404167175293 seconds
+19:58:48,982 train.py INFO epoch 13, lr [0.0002493794580575177]
+19:59:01,969 train.py INFO train_top1_acc 52.06497, train_top3_acc 81.80974, train_loss 1.36223
+19:59:02,758 train.py INFO valid_top1_acc 38.14433, valid_top3_acc 69.58763, valid_loss 1.88998
+19:59:02,758 train.py INFO Took 13.775617122650146 seconds
+19:59:02,803 train.py INFO epoch 14, lr [0.0002670483935985771]
+19:59:16,53 train.py INFO train_top1_acc 52.25058, train_top3_acc 82.64501, train_loss 1.35753
+19:59:16,829 train.py INFO valid_top1_acc 36.08247, valid_top3_acc 63.65979, valid_loss 2.02326
+19:59:16,830 train.py INFO Took 14.026713132858276 seconds
+19:59:16,875 train.py INFO epoch 15, lr [0.00028132107470834234]
+19:59:29,903 train.py INFO train_top1_acc 53.36427, train_top3_acc 83.34107, train_loss 1.30877
+19:59:30,658 train.py INFO valid_top1_acc 44.32990, valid_top3_acc 71.64948, valid_loss 1.73695
+19:59:30,659 train.py INFO Took 13.783005952835083 seconds
+19:59:30,703 train.py INFO epoch 16, lr [0.00029176099208762696]
+19:59:43,758 train.py INFO train_top1_acc 56.79814, train_top3_acc 85.01160, train_loss 1.23136
+19:59:44,496 train.py INFO valid_top1_acc 36.08247, valid_top3_acc 66.23711, valid_loss 2.03732
+19:59:44,497 train.py INFO Took 13.793150901794434 seconds
+19:59:44,563 train.py INFO epoch 17, lr [0.00029804885596993586]
+19:59:57,659 train.py INFO train_top1_acc 57.16937, train_top3_acc 85.38283, train_loss 1.21294
+19:59:58,483 train.py INFO valid_top1_acc 39.17526, valid_top3_acc 69.32990, valid_loss 1.91079
+19:59:58,484 train.py INFO Took 13.920981407165527 seconds
+19:59:58,530 train.py INFO epoch 18, lr [0.00029999854801494126]
+20:00:11,608 train.py INFO train_top1_acc 59.62877, train_top3_acc 86.21810, train_loss 1.15688
+20:00:12,413 train.py INFO valid_top1_acc 37.37113, valid_top3_acc 66.49485, valid_loss 1.98649
+20:00:12,414 train.py INFO Took 13.883524179458618 seconds
+20:00:12,478 train.py INFO epoch 19, lr [0.0002995298019398836]
+20:00:25,675 train.py INFO train_top1_acc 60.00000, train_top3_acc 88.95592, train_loss 1.10900
+20:00:26,448 train.py INFO valid_top1_acc 40.46392, valid_top3_acc 71.64948, valid_loss 1.82921
+20:00:26,449 train.py INFO Took 13.970353364944458 seconds
+20:00:26,495 train.py INFO epoch 20, lr [0.00029822482791290564]
+20:00:39,497 train.py INFO train_top1_acc 60.46404, train_top3_acc 88.25986, train_loss 1.10287
+20:00:40,262 train.py INFO valid_top1_acc 40.72165, valid_top3_acc 70.87629, valid_loss 1.94797
+20:00:40,262 train.py INFO Took 13.766922235488892 seconds
+20:00:40,356 train.py INFO epoch 21, lr [0.00029609092387811273]
+20:00:53,527 train.py INFO train_top1_acc 61.06729, train_top3_acc 88.16705, train_loss 1.08989
+20:00:54,305 train.py INFO valid_top1_acc 46.13402, valid_top3_acc 74.48454, valid_loss 1.92882
+20:00:54,305 train.py INFO Took 13.948563575744629 seconds
+20:00:54,383 train.py INFO epoch 22, lr [0.00029314002349245923]
+20:01:07,497 train.py INFO train_top1_acc 64.40835, train_top3_acc 89.04872, train_loss 1.05083
+20:01:08,258 train.py INFO valid_top1_acc 41.75258, valid_top3_acc 70.10309, valid_loss 2.09193
+20:01:08,258 train.py INFO Took 13.875096082687378 seconds
+20:01:08,307 train.py INFO epoch 23, lr [0.000289388629387898]
+20:01:21,515 train.py INFO train_top1_acc 63.29466, train_top3_acc 89.69838, train_loss 0.99452
+20:01:22,317 train.py INFO valid_top1_acc 45.36082, valid_top3_acc 71.39175, valid_loss 1.99568
+20:01:22,317 train.py INFO Took 14.010051488876343 seconds
+20:01:22,382 train.py INFO epoch 24, lr [0.00028485772088196844]
+20:01:35,549 train.py INFO train_top1_acc 64.87239, train_top3_acc 90.44084, train_loss 0.97155
+20:01:36,301 train.py INFO valid_top1_acc 46.64948, valid_top3_acc 73.45361, valid_loss 2.03765
+20:01:36,302 train.py INFO Took 13.919537544250488 seconds
+20:01:36,381 train.py INFO epoch 25, lr [0.0002795726366529426]
+20:01:49,450 train.py INFO train_top1_acc 64.54756, train_top3_acc 90.71926, train_loss 0.95380
+20:01:50,233 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 72.42268, valid_loss 2.26539
+20:01:50,233 train.py INFO Took 13.851811408996582 seconds
+20:01:50,279 train.py INFO epoch 26, lr [0.0002735629330356585]
+20:02:03,367 train.py INFO train_top1_acc 67.19258, train_top3_acc 90.71926, train_loss 0.93590
+20:02:04,138 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 71.39175, valid_loss 1.96170
+20:02:04,138 train.py INFO Took 13.858890056610107 seconds
+20:02:04,204 train.py INFO epoch 27, lr [0.0002668622187305058]
+20:02:17,384 train.py INFO train_top1_acc 68.49188, train_top3_acc 92.15777, train_loss 0.87244
+20:02:18,187 train.py INFO valid_top1_acc 43.29897, valid_top3_acc 70.61856, valid_loss 2.05708
+20:02:18,187 train.py INFO Took 13.982961416244507 seconds
+20:02:18,235 train.py INFO epoch 28, lr [0.00025950796684994095]
+20:02:31,228 train.py INFO train_top1_acc 69.14153, train_top3_acc 92.25058, train_loss 0.86375
+20:02:32,16 train.py INFO valid_top1_acc 43.29897, valid_top3_acc 68.81443, valid_loss 2.23462
+20:02:32,16 train.py INFO Took 13.780969381332397 seconds
+20:02:32,97 train.py INFO epoch 29, lr [0.0002515413053536414]
+20:02:45,81 train.py INFO train_top1_acc 69.51276, train_top3_acc 91.78654, train_loss 0.85952
+20:02:45,860 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 70.61856, valid_loss 2.19894
+20:02:45,860 train.py INFO Took 13.762878656387329 seconds
+20:02:45,923 train.py INFO epoch 30, lr [0.0002430067870442723]
+20:02:58,925 train.py INFO train_top1_acc 71.83295, train_top3_acc 93.92111, train_loss 0.79874
+20:02:59,676 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 72.93814, valid_loss 2.07227
+20:02:59,676 train.py INFO Took 13.753080368041992 seconds
+20:02:59,723 train.py INFO epoch 31, lr [0.00023395214041014136]
+20:03:12,893 train.py INFO train_top1_acc 72.25058, train_top3_acc 92.94664, train_loss 0.79649
+20:03:13,728 train.py INFO valid_top1_acc 45.36082, valid_top3_acc 72.93814, valid_loss 2.33933
+20:03:13,729 train.py INFO Took 14.005268812179565 seconds
+20:03:13,775 train.py INFO epoch 32, lr [0.0002244280027081322]
+20:03:26,892 train.py INFO train_top1_acc 70.81207, train_top3_acc 93.73550, train_loss 0.78579
+20:03:27,720 train.py INFO valid_top1_acc 44.58763, valid_top3_acc 71.90722, valid_loss 2.45447
+20:03:27,720 train.py INFO Took 13.944809913635254 seconds
+20:03:27,767 train.py INFO epoch 33, lr [0.00021448763677962325]
+20:03:40,899 train.py INFO train_top1_acc 73.96752, train_top3_acc 93.92111, train_loss 0.75744
+20:03:41,641 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 72.68041, valid_loss 2.11602
+20:03:41,642 train.py INFO Took 13.874596118927002 seconds
+20:03:41,700 train.py INFO epoch 34, lr [0.00020418663318307325]
+20:03:54,662 train.py INFO train_top1_acc 73.73550, train_top3_acc 94.47796, train_loss 0.72244
+20:03:55,415 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 72.93814, valid_loss 2.17158
+20:03:55,416 train.py INFO Took 13.715063571929932 seconds
+20:03:55,477 train.py INFO epoch 35, lr [0.00019358259930906887]
+20:04:08,471 train.py INFO train_top1_acc 74.89559, train_top3_acc 95.17401, train_loss 0.68174
+20:04:09,306 train.py INFO valid_top1_acc 46.64948, valid_top3_acc 73.71134, valid_loss 2.26568
+20:04:09,306 train.py INFO Took 13.828922510147095 seconds
+20:04:09,351 train.py INFO epoch 36, lr [0.00018273483721642882]
+20:04:22,518 train.py INFO train_top1_acc 75.91647, train_top3_acc 95.26682, train_loss 0.68516
+20:04:23,285 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 73.45361, valid_loss 2.20927
+20:04:23,285 train.py INFO Took 13.933828592300415 seconds
+20:04:23,331 train.py INFO epoch 37, lr [0.00017170401199103586]
+20:04:36,315 train.py INFO train_top1_acc 75.82367, train_top3_acc 94.80278, train_loss 0.68189
+20:04:37,114 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 73.45361, valid_loss 2.24325
+20:04:37,114 train.py INFO Took 13.783434391021729 seconds
+20:04:37,174 train.py INFO epoch 38, lr [0.00016055181248206816]
+20:04:50,156 train.py INFO train_top1_acc 77.58701, train_top3_acc 95.26682, train_loss 0.63428
+20:04:50,989 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 75.51546, valid_loss 2.16699
+20:04:50,989 train.py INFO Took 13.814339876174927 seconds
+20:04:51,51 train.py INFO epoch 39, lr [0.0001493406063129318]
+20:05:04,90 train.py INFO train_top1_acc 76.24130, train_top3_acc 94.75638, train_loss 0.64205
+20:05:04,890 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 74.22680, valid_loss 2.21498
+20:05:04,890 train.py INFO Took 13.839481115341187 seconds
+20:05:04,959 train.py INFO epoch 40, lr [0.0001381330910962118]
+20:05:18,58 train.py INFO train_top1_acc 77.67981, train_top3_acc 95.54524, train_loss 0.64593
+20:05:18,817 train.py INFO valid_top1_acc 46.90722, valid_top3_acc 73.71134, valid_loss 2.28040
+20:05:18,818 train.py INFO Took 13.858165979385376 seconds
+20:05:18,885 train.py INFO epoch 41, lr [0.0001269919438031901]
+20:05:31,899 train.py INFO train_top1_acc 79.02552, train_top3_acc 95.31322, train_loss 0.60550
+20:05:32,698 train.py INFO valid_top1_acc 45.87629, valid_top3_acc 73.71134, valid_loss 2.34345
+20:05:32,699 train.py INFO Took 13.813689947128296 seconds
+20:05:32,746 train.py INFO epoch 42, lr [0.00011597947024879801]
+20:05:45,843 train.py INFO train_top1_acc 78.23666, train_top3_acc 95.82367, train_loss 0.61695
+20:05:46,639 train.py INFO valid_top1_acc 46.39175, valid_top3_acc 73.19588, valid_loss 2.38397
+20:05:46,640 train.py INFO Took 13.893246173858643 seconds
+20:05:46,697 train.py INFO epoch 43, lr [0.00010515725665222535]
+20:05:59,686 train.py INFO train_top1_acc 80.37123, train_top3_acc 95.54524, train_loss 0.55843
+20:06:00,494 train.py INFO valid_top1_acc 45.61856, valid_top3_acc 72.68041, valid_loss 2.48622
+20:06:00,494 train.py INFO Took 13.79737377166748 seconds
+20:06:00,539 train.py INFO epoch 44, lr [9.45858252218014e-05]
+20:06:13,557 train.py INFO train_top1_acc 78.74710, train_top3_acc 95.63805, train_loss 0.59748
+20:06:14,339 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 72.68041, valid_loss 2.42637
+20:06:14,339 train.py INFO Took 13.799858808517456 seconds
+20:06:14,417 train.py INFO epoch 45, lr [8.432429569025555e-05]
+20:06:27,459 train.py INFO train_top1_acc 79.16473, train_top3_acc 96.14849, train_loss 0.57418
+20:06:28,234 train.py INFO valid_top1_acc 47.42268, valid_top3_acc 75.00000, valid_loss 2.39707
+20:06:28,234 train.py INFO Took 13.817296743392944 seconds
+20:06:28,299 train.py INFO epoch 46, lr [7.443005469319098e-05]
+20:06:41,350 train.py INFO train_top1_acc 80.18561, train_top3_acc 95.49884, train_loss 0.55221
+20:06:42,112 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 73.45361, valid_loss 2.35376
+20:06:42,113 train.py INFO Took 13.813482761383057 seconds
+20:06:42,187 train.py INFO epoch 47, lr [6.49584348397396e-05]
+20:06:55,214 train.py INFO train_top1_acc 80.13921, train_top3_acc 95.63805, train_loss 0.57117
+20:06:55,992 train.py INFO valid_top1_acc 48.19588, valid_top3_acc 73.71134, valid_loss 2.37648
+20:06:55,992 train.py INFO Took 13.805492639541626 seconds
+20:06:56,56 train.py INFO epoch 48, lr [5.59624052701676e-05]
+20:07:09,87 train.py INFO train_top1_acc 79.16473, train_top3_acc 96.70534, train_loss 0.55737
+20:07:09,852 train.py INFO valid_top1_acc 47.68041, valid_top3_acc 73.19588, valid_loss 2.40903
+20:07:09,853 train.py INFO Took 13.796539783477783 seconds
+20:07:09,899 train.py INFO epoch 49, lr [4.749227543095612e-05]
+20:07:25,315 train.py INFO train_top1_acc 80.41763, train_top3_acc 96.38051, train_loss 0.55236
+20:07:26,102 train.py INFO valid_top1_acc 48.96907, valid_top3_acc 73.45361, valid_loss 2.40844
+20:07:26,102 train.py INFO Took 16.203052282333374 seconds
+20:07:26,177 train.py INFO epoch 50, lr [3.95954137239696e-05]
+20:07:39,645 train.py INFO train_top1_acc 79.81439, train_top3_acc 96.14849, train_loss 0.55640
+20:07:40,421 train.py INFO valid_top1_acc 48.71134, valid_top3_acc 73.19588, valid_loss 2.38739
+20:07:40,421 train.py INFO Took 14.24379277229309 seconds
+20:07:40,480 train.py INFO epoch 51, lr [3.231598260313783e-05]
+20:07:53,467 train.py INFO train_top1_acc 81.90255, train_top3_acc 96.00928, train_loss 0.53734
+20:07:54,217 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 73.19588, valid_loss 2.37150
+20:07:54,218 train.py INFO Took 13.738011121749878 seconds
+20:07:54,296 train.py INFO epoch 52, lr [2.5694691600099707e-05]
+20:08:07,476 train.py INFO train_top1_acc 81.29930, train_top3_acc 96.84455, train_loss 0.51735
+20:08:08,304 train.py INFO valid_top1_acc 48.71134, valid_top3_acc 74.22680, valid_loss 2.36683
+20:08:08,304 train.py INFO Took 14.00844144821167 seconds
+20:08:08,350 train.py INFO epoch 53, lr [1.9768569659989127e-05]
+20:08:21,304 train.py INFO train_top1_acc 81.76334, train_top3_acc 96.33411, train_loss 0.51419
+20:08:22,102 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 74.48454, valid_loss 2.37604
+20:08:22,103 train.py INFO Took 13.753103494644165 seconds
+20:08:22,166 train.py INFO epoch 54, lr [1.4570758060553302e-05]
+20:08:35,208 train.py INFO train_top1_acc 80.32483, train_top3_acc 95.77726, train_loss 0.56564
+20:08:35,982 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 75.00000, valid_loss 2.37075
+20:08:35,983 train.py INFO Took 13.816338062286377 seconds
+20:08:36,29 train.py INFO epoch 55, lr [1.0130325072684287e-05]
+20:08:49,106 train.py INFO train_top1_acc 80.74246, train_top3_acc 96.14849, train_loss 0.55417
+20:08:49,865 train.py INFO valid_top1_acc 49.48454, valid_top3_acc 75.25773, valid_loss 2.37504
+20:08:49,865 train.py INFO Took 13.836303949356079 seconds
+20:08:49,911 train.py INFO epoch 56, lr [6.472103398856998e-06]
+20:09:02,785 train.py INFO train_top1_acc 81.80974, train_top3_acc 96.14849, train_loss 0.53591
+20:09:03,592 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 75.25773, valid_loss 2.37742
+20:09:03,593 train.py INFO Took 13.681655883789062 seconds
+20:09:03,677 train.py INFO epoch 57, lr [3.616551298583878e-06]
+20:09:16,700 train.py INFO train_top1_acc 81.67053, train_top3_acc 96.56613, train_loss 0.52628
+20:09:17,457 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 75.00000, valid_loss 2.37626
+20:09:17,457 train.py INFO Took 13.780484199523926 seconds
+20:09:17,517 train.py INFO epoch 58, lr [1.5796381775291086e-06]
+20:09:30,736 train.py INFO train_top1_acc 80.78886, train_top3_acc 96.38051, train_loss 0.52411
+20:09:31,535 train.py INFO valid_top1_acc 50.00000, valid_top3_acc 74.74227, valid_loss 2.37616
+20:09:31,535 train.py INFO Took 14.017639398574829 seconds
+20:09:31,597 train.py INFO epoch 59, lr [3.727552801142313e-07]
+20:09:44,891 train.py INFO train_top1_acc 81.71694, train_top3_acc 97.03016, train_loss 0.50486
+20:09:45,748 train.py INFO valid_top1_acc 49.74227, valid_top3_acc 74.74227, valid_loss 2.37685
+20:09:45,748 train.py INFO Took 14.151022911071777 seconds
+20:09:45,896 train.py INFO Running test set inference...
+20:09:50,167 train.py INFO test_top1_acc 82.34369, test_top3_acc 95.35981

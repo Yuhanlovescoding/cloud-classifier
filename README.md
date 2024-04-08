@@ -27,3 +27,6 @@ The final accuracy test is done on the entire dataset.
 
 # Train & Test 
 If everything is set up properly, just run `python train.py` and wait for the results.
+
+# Deploy
+If everything is set up properly, just run `python deploy.py` and there will be a model asset saved in `model` directory

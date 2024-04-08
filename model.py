@@ -43,8 +43,10 @@ class CloudClassifier(nn.Module):
         x = self.classifier(x)
         return x
 
-def get_model(weights: Optional[MobileNet_V3_Small_Weights], **kwargs) -> CloudClassifier:
+def get_model(weights: Optional[MobileNet_V3_Small_Weights] = None, **kwargs) -> CloudClassifier:
     model = CloudClassifier(**kwargs)
+    if weights is None:
+        return model
     # load weights only for the feature extractor
     state_dict = {k: v for k,v in weights.get_state_dict(progress=True).items() if k.startswith('features')}
     missing_keys, unexpected_keys = model.load_state_dict(state_dict, strict=False)
